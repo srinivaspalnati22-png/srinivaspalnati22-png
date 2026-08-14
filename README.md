@@ -60,12 +60,17 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 > 💡 **If these stay blank:** this file must live in a **public** repo named exactly `srinivaspalnati22-png` (same as your username). Also the free stats server occasionally rate-limits — just refresh after a minute.
 
+> 🏆 **Trophies still broken?** Try one of these community mirrors instead of the official `github-profile-trophy.vercel.app` (swap the domain, keep the rest of the URL the same):
+> - `github-profile-trophy-liard-delta.vercel.app`
+> - `github-profile-trophy-fork-two.vercel.app`
+> - `github-profile-trophy-winning.vercel.app`
+
 <br/>
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srinivaspalnati22-png&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=srinivaspalnati22-png&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
