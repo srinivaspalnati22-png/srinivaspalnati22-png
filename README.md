@@ -1,86 +1,142 @@
-<h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">B.Tech Student | Aspiring SDE / AI-ML Engineer | DSA • Java • Python</h3>
-
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Aspiring+SDE+%7C+AI-ML+Engineer;Solving+DSA+one+problem+at+a+time;Java+%7C+Python+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2F5597&height=220&section=header&text=Srinivas%20Palnati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SDE%20%7C%20AI-ML%20Engineer%20%7C%20Startup%20Builder&descAlignY=55&descSize=18" />
+</p>
+
+<!-- ===================== TYPING TAGLINE ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%7C+3rd+Year;Building+AI-powered+products+that+ship;Python+%E2%80%A2+Java+%E2%80%A2+DSA+%E2%80%A2+Full-Stack;Hackathon+Winner+%F0%9F%8F%86+%7C+5x+AI+Projects+Shipped" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:srinivaspalnati22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&style=for-the-badge&color=2F5597&label=Profile+Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 3rd Year B.Tech student, currently strengthening my fundamentals in **Data Structures & Algorithms**
-- 💻 Actively learning **Java** and **Python**, with a growing interest in **AI/ML**
-- 🎯 Goal: Land an **SDE** or **AI/ML Engineer** role at a product-based company
-- 🌱 Currently building projects around **AI applications** and **web development**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
+I'm a **Computer Science Engineering student (3rd Year)** specializing in **AI/ML application development, full-stack engineering, and cybersecurity-focused product design**. I've built and shipped **five AI-powered platforms** spanning scam detection, civic-tech, retail forecasting, and misinformation detection — and won **First Prize** at a hackathon along the way.
+
+- 🔭 Currently building: AI products with **Python, Flask, and OpenAI API**
+- 🌱 Currently sharpening: **Data Structures & Algorithms** to break into SDE / AI-ML roles at product-based companies
+- 🛠️ Comfortable with: **Cursor AI, Google AI Studio, Firebase, Capacitor**
+- 🎯 Goal: **SDE / AI-ML Engineer** role at a product company
+- 💬 Ask me about: AI app architecture, scam-detection systems, or hackathon war stories
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,firebase,git,github,vscode,figma,cpp&theme=dark" />
+</p>
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Concepts & Tools**
-
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Core Areas:** `Artificial Intelligence` `Machine Learning` `Cybersecurity` `Data Structures & Algorithms` `Startup Prototyping` `Prompt Engineering`
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [AI-Powered Career Safety](https://github.com/srinivaspalnati22-png/AI-POWERED-CAREER-SAFETY) | AI-based tool focused on career/safety insights | HTML |
-| [SmartCivic AI](https://github.com/srinivaspalnati22-png/SMARTCIVIC-AI) | AI application for civic/community use cases | HTML |
-| [Retail Demand AI](https://github.com/srinivaspalnati22-png/Retaildemandai) | AI-driven retail demand prediction project | HTML |
-| [TruthShield AI](https://github.com/srinivaspalnati22-png/TRUTHSHEILD-AI) | AI-based misinformation/fact-check project | Dart |
-| [Modern Portfolio](https://github.com/srinivaspalnati22-png/mordernportfolio) | My personal developer portfolio website | JavaScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*(Update each row's description with 1 real line about what the project does, and add a live demo link if deployed.)*
+**🛡️ [TrustShield AI](https://github.com/srinivaspalnati22-png/TRUTHSHEILD-AI)**
+AI-powered digital trust & scam-protection platform — scans messages, detects phishing URLs, verifies offer letters, and fact-checks content in real time with an AI assistant and threat-intel feed.
+
+</td>
+<td width="50%" valign="top">
+
+**🏙️ [SmartCivic AI](https://github.com/srinivaspalnati22-png/SMARTCIVIC-AI)**
+Multilingual civic issue-reporting platform with voice assistant support in **English, Hindi, Telugu & Tamil**, smart complaint categorization, and location-aware reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧑‍💼 [CareerSafe](https://github.com/srinivaspalnati22-png/AI-POWERED-CAREER-SAFETY)**
+`Python` `Flask` `Vite` `Capacitor` `OpenAI API`
+Detects job scams & fraudulent postings, verifies resume authenticity, and delivers personalized AI career guidance — with Android support.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [NexusAI](https://github.com/srinivaspalnati22-png/Retaildemandai)**
+`Python` `Flask` `Tailwind CSS` `Chart.js`
+Retail demand-forecasting platform with predictive analytics and interactive visualization dashboards for inventory planning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 TruthLens AI**
+`Python` `Flask` `Tailwind CSS` `Chart.js`
+Fake-news detection system combining sentiment analysis, clickbait detection, bias analysis, and credibility scoring.
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Modern Portfolio](https://github.com/srinivaspalnati22-png/mordernportfolio)**
+Personal developer portfolio site showcasing projects and skills — built and deployed end-to-end.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Hackathons & Achievements
+
+- 🥇 **First Prize** — 5-Hour Hackathon, NRI Institute of Technology
+- ⚡ Techzite 2025 — 24-Hour Hackathon, IIIT Nuzvid
+- ⚡ 24-Hour Hackathon — P.B. Siddhartha Degree College
+- ⚡ CREATHON — Hackathon Event, NRI Institute of Technology
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srinivaspalnati22-png&theme=discord&no-frame=true&row=1&column=6" />
+</p>
+
+<!-- ===================== CONTRIBUTION SNAKE (animated, see setup note below) ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### 📈 DSA Practice
 
-<!-- Optional: link your LeetCode/GFG/Codeforces profile once you're active there -->
+<!-- Replace with your real handles once active -->
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Add%20your%20profile-yellow?style=for-the-badge&logo=leetcode" />
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20your%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20your%20profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center"><i>Open to SDE / AI-ML Engineer opportunities — let's connect!</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5597,100:1F3864&height=100&section=footer" />
+</p>
+
+<p align="center"><i>🚀 Open to SDE / AI-ML Engineer opportunities — let's connect!</i></p>
