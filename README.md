@@ -1,142 +1,120 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2F5597&height=220&section=header&text=Srinivas%20Palnati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SDE%20%7C%20AI-ML%20Engineer%20%7C%20Startup%20Builder&descAlignY=55&descSize=18" />
-</p>
+<div align="center">
 
-<!-- ===================== TYPING TAGLINE ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student+%7C+3rd+Year;Building+AI-powered+products+that+ship;Python+%E2%80%A2+Java+%E2%80%A2+DSA+%E2%80%A2+Full-Stack;Hackathon+Winner+%F0%9F%8F%86+%7C+5x+AI+Projects+Shipped" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDE%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:srinivaspalnati22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&style=for-the-badge&color=2F5597&label=Profile+Views" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Software+Development+Engineer;AI+%2F+ML+Engineer+in+the+making;Building+AI-powered+products+%F0%9F%9A%80;Turning+ideas+into+working+code" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/srinivaspalnati22-png/profile-readme" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=blueviolet&style=flat-square&label=Visitors" alt="Visitor Badge"/>
+
+</div>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-I'm a **Computer Science Engineering student (3rd Year)** specializing in **AI/ML application development, full-stack engineering, and cybersecurity-focused product design**. I've built and shipped **five AI-powered platforms** spanning scam detection, civic-tech, retail forecasting, and misinformation detection — and won **First Prize** at a hackathon along the way.
+```yaml
+name: "Palnati Pushpa Naga Venkata Srinivas"
+role: "SDE | AI/ML Engineer"
+focus: ["AI-powered applications", "Full-stack web dev", "Problem solving"]
+currently_building: "AI-driven civic & career-safety tools"
+currently_learning: "Advanced ML systems & scalable backend architecture"
+fun_fact: "I turn ☕ into 🧠-powered code"
+```
 
-- 🔭 Currently building: AI products with **Python, Flask, and OpenAI API**
-- 🌱 Currently sharpening: **Data Structures & Algorithms** to break into SDE / AI-ML roles at product-based companies
-- 🛠️ Comfortable with: **Cursor AI, Google AI Studio, Firebase, Capacitor**
-- 🎯 Goal: **SDE / AI-ML Engineer** role at a product company
-- 💬 Ask me about: AI app architecture, scam-detection systems, or hackathon war stories
+- 🔭 Currently building **AI-Powered Career Safety**, **SmartCivic-AI**, and **TruthShield-AI**
+- 🌱 Sharpening skills in Machine Learning, System Design, and Full-Stack Development
+- 💡 Passionate about solving real-world problems with AI
+- ⚡ Fun fact: I debug faster with music on
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,firebase,git,github,vscode,figma,cpp&theme=dark" />
-</p>
+<div align="center">
 
-**Core Areas:** `Artificial Intelligence` `Machine Learning` `Cybersecurity` `Data Structures & Algorithms` `Startup Prototyping` `Prompt Engineering`
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,flutter,dart,git,github,vscode,figma,tensorflow&theme=dark" />
 
----
+</div>
 
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ [TrustShield AI](https://github.com/srinivaspalnati22-png/TRUTHSHEILD-AI)**
-AI-powered digital trust & scam-protection platform — scans messages, detects phishing URLs, verifies offer letters, and fact-checks content in real time with an AI assistant and threat-intel feed.
-
-</td>
-<td width="50%" valign="top">
-
-**🏙️ [SmartCivic AI](https://github.com/srinivaspalnati22-png/SMARTCIVIC-AI)**
-Multilingual civic issue-reporting platform with voice assistant support in **English, Hindi, Telugu & Tamil**, smart complaint categorization, and location-aware reporting.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧑‍💼 [CareerSafe](https://github.com/srinivaspalnati22-png/AI-POWERED-CAREER-SAFETY)**
-`Python` `Flask` `Vite` `Capacitor` `OpenAI API`
-Detects job scams & fraudulent postings, verifies resume authenticity, and delivers personalized AI career guidance — with Android support.
-
-</td>
-<td width="50%" valign="top">
-
-**📊 [NexusAI](https://github.com/srinivaspalnati22-png/Retaildemandai)**
-`Python` `Flask` `Tailwind CSS` `Chart.js`
-Retail demand-forecasting platform with predictive analytics and interactive visualization dashboards for inventory planning.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 TruthLens AI**
-`Python` `Flask` `Tailwind CSS` `Chart.js`
-Fake-news detection system combining sentiment analysis, clickbait detection, bias analysis, and credibility scoring.
-
-</td>
-<td width="50%" valign="top">
-
-**💼 [Modern Portfolio](https://github.com/srinivaspalnati22-png/mordernportfolio)**
-Personal developer portfolio site showcasing projects and skills — built and deployed end-to-end.
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏆 Hackathons & Achievements
-
-- 🥇 **First Prize** — 5-Hour Hackathon, NRI Institute of Technology
-- ⚡ Techzite 2025 — 24-Hour Hackathon, IIIT Nuzvid
-- ⚡ 24-Hour Hackathon — P.B. Siddhartha Degree College
-- ⚡ CREATHON — Hackathon Event, NRI Institute of Technology
-
----
+<br/>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srinivaspalnati22-png&theme=discord&no-frame=true&row=1&column=6" />
-</p>
+<br/>
 
-<!-- ===================== CONTRIBUTION SNAKE (animated, see setup note below) ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&theme=radical&hide_border=true" />
 
----
+</div>
 
-### 📈 DSA Practice
+> 💡 **If the cards above show "Something went wrong" or stay blank:**
+> 1. Make sure this file lives in a repo literally named `srinivaspalnati22-png/srinivaspalnati22-png` (same as your username) and the repo is **public**.
+> 2. The free stats server sometimes rate-limits — refresh after a minute, or switch to a mirror like `https://github-readme-stats-sigma-five.vercel.app/api?username=srinivaspalnati22-png` if the default one is down.
+> 3. `count_private=true` only works fully if you deploy your own instance with a personal token — on the public server it may just show public activity.
 
-<!-- Replace with your real handles once active -->
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20your%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20your%20profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
+<br/>
 
----
+### 🏆 Trophies
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5597,100:1F3864&height=100&section=footer" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=srinivaspalnati22-png&theme=radical&no-frame=true&row=1&column=6" />
+</div>
 
-<p align="center"><i>🚀 Open to SDE / AI-ML Engineer opportunities — let's connect!</i></p>
+<br/>
+
+### 🐍 Contribution Snake (animated)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
+</div>
+
+> ⚙️ This snake animation needs a one-time GitHub Action setup — instructions below.
+
+<br/>
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=mordernportfolio&theme=radical&hide_border=true"/>
+
+</div>
+
+<br/>
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer" width="100%"/>
+
+</div>
