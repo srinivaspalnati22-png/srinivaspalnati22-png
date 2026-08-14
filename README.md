@@ -14,24 +14,26 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-```yaml
-name: "Palnati Pushpa Naga Venkata Srinivas"
-role: "SDE / AI-ML Engineer aspirant"
-year: "3rd Year B.Tech CSE, NRI University, Andhra Pradesh (2024–2028)"
-learning_path: [Python, DSA, Java, "-> DBMS & SQL", "-> OS & CN", "-> CS Fundamentals", "-> Spring Boot"]
-built: "5 AI-powered platforms across scam detection, civic-tech & career-safety"
-hackathons: "5+ hackathons, including a First Prize win"
-fun_fact: "I turn ☕ into 🧠-powered code"
-```
+I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pradesh) focused on becoming a Software Development Engineer or AI/ML Engineer at a product-based company. I build AI-powered applications end-to-end — from idea to a working, deployed product — and have shipped five of them across scam detection, civic-tech, and career-safety.
 
-- 🎯 Preparing for **SDE** and **AI/ML Engineer** roles at product-based companies
-- 📚 Currently deepening DSA & Java, next up: DBMS, SQL, OS, CN, CS fundamentals, and Spring Boot
-- 🧩 Sharpening problem-solving on [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) — DSA, Java & Python
-- 🚀 Shipped 5 AI-powered platforms: scam/deepfake detection, civic-tech, and career-safety tools
-- 🏆 First Prize — 5-Hour Hackathon, NRI Institute of Technology
-- 🔬 Most recent build: **Pulsevein**, a multimodal deepfake reality-checker using rPPG signal analysis, lip-audio sync, and explainable forensic reporting (InnoGenesis 24-Hour Hackathon, Aug 2026)
+**Currently strengthening:** Python, Java, and Data Structures & Algorithms, with DBMS, SQL, Operating Systems, Computer Networks, core CS fundamentals, and Spring Boot next on the roadmap.
+
+**Recent work:** Pulsevein, a multimodal deepfake-detection system built at the InnoGenesis 24-Hour Hackathon (Aug 2026), using rPPG physiological signal analysis and lip–audio synchronization to flag synthetic media.
+
+**Track record:** 5+ hackathons, including a First Prize win at NRI Institute of Technology, and active problem-solving practice on HackerRank.
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, NRI University (2024–2028) |
+| 🎯 **Target Roles** | SDE · AI/ML Engineer |
+| 🧩 **Practicing** | [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) — DSA, Java, Python |
+| 🏆 **Highlight** | First Prize, 5-Hour Hackathon, NRI IT |
+
+</div>
 
 <br/>
 
@@ -60,17 +62,17 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 > 💡 **If these stay blank:** this file must live in a **public** repo named exactly `srinivaspalnati22-png` (same as your username). Also the free stats server occasionally rate-limits — just refresh after a minute.
 
-> 🏆 **Trophies still broken?** Try one of these community mirrors instead of the official `github-profile-trophy.vercel.app` (swap the domain, keep the rest of the URL the same):
-> - `github-profile-trophy-liard-delta.vercel.app`
-> - `github-profile-trophy-fork-two.vercel.app`
-> - `github-profile-trophy-winning.vercel.app`
-
 <br/>
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=srinivaspalnati22-png&theme=radical&no-frame=true&row=1&column=6" />
+
+![First Prize](https://img.shields.io/badge/🥇_First_Prize-5--Hour_Hackathon,_NRI_IT-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Hackathons](https://img.shields.io/badge/🎯_5%2B_Hackathons-Participated-00C9FF?style=for-the-badge&labelColor=1a1a1a)
+![Projects Shipped](https://img.shields.io/badge/🚀_5_AI_Platforms-Shipped-7F00FF?style=for-the-badge&labelColor=1a1a1a)
+![Certifications](https://img.shields.io/badge/📜_6_Certifications-Infosys_%26_NIPAM-2EC866?style=for-the-badge&labelColor=1a1a1a)
+
 </div>
 
 <br/>
