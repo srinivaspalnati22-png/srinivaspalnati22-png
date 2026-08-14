@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDE%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SDE%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Software+Development+Engineer;AI+%2F+ML+Engineer+in+the+making;Building+AI-powered+products+%F0%9F%9A%80;Turning+ideas+into+working+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=B.Tech+CSE+Student+%40+NRI+University;AI%2FML+%7C+Full-Stack+%7C+Startup+Builder;Building+AI-powered+products+%F0%9F%9A%80;5%2B+hackathons+%7C+1+First+Prize+win+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/srinivaspalnati22-png/profile-readme" alt="Profile Views"/>
-<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=blueviolet&style=flat-square&label=Visitors" alt="Visitor Badge"/>
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Badge"/>
 
 </div>
 
@@ -19,17 +18,20 @@
 
 ```yaml
 name: "Palnati Pushpa Naga Venkata Srinivas"
-role: "SDE | AI/ML Engineer"
-focus: ["AI-powered applications", "Full-stack web dev", "Problem solving"]
-currently_building: "AI-driven civic & career-safety tools"
-currently_learning: "Advanced ML systems & scalable backend architecture"
+role: "SDE / AI-ML Engineer aspirant"
+year: "3rd Year B.Tech CSE, NRI University, Andhra Pradesh (2024–2028)"
+learning_path: [Python, DSA, Java, "-> DBMS & SQL", "-> OS & CN", "-> CS Fundamentals", "-> Spring Boot"]
+built: "5 AI-powered platforms across scam detection, civic-tech & career-safety"
+hackathons: "5+ hackathons, including a First Prize win"
 fun_fact: "I turn ☕ into 🧠-powered code"
 ```
 
-- 🔭 Currently building **AI-Powered Career Safety**, **SmartCivic-AI**, and **TruthShield-AI**
-- 🌱 Sharpening skills in Machine Learning, System Design, and Full-Stack Development
-- 💡 Passionate about solving real-world problems with AI
-- ⚡ Fun fact: I debug faster with music on
+- 🎯 Preparing for **SDE** and **AI/ML Engineer** roles at product-based companies
+- 📚 Currently deepening DSA & Java, next up: DBMS, SQL, OS, CN, CS fundamentals, and Spring Boot
+- 🧩 Sharpening problem-solving on [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) — DSA, Java & Python
+- 🚀 Shipped 5 AI-powered platforms: scam/deepfake detection, civic-tech, and career-safety tools
+- 🏆 First Prize — 5-Hour Hackathon, NRI Institute of Technology
+- 🔬 Most recent build: **Pulsevein**, a multimodal deepfake reality-checker using rPPG signal analysis, lip-audio sync, and explainable forensic reporting (InnoGenesis 24-Hour Hackathon, Aug 2026)
 
 <br/>
 
@@ -37,7 +39,7 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,flutter,dart,git,github,vscode,figma,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,flutter,firebase,git,github,vscode,tailwind&theme=dark" />
 
 </div>
 
@@ -56,10 +58,7 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 </div>
 
-> 💡 **If the cards above show "Something went wrong" or stay blank:**
-> 1. Make sure this file lives in a repo literally named `srinivaspalnati22-png/srinivaspalnati22-png` (same as your username) and the repo is **public**.
-> 2. The free stats server sometimes rate-limits — refresh after a minute, or switch to a mirror like `https://github-readme-stats-sigma-five.vercel.app/api?username=srinivaspalnati22-png` if the default one is down.
-> 3. `count_private=true` only works fully if you deploy your own instance with a personal token — on the public server it may just show public activity.
+> 💡 **If these stay blank:** this file must live in a **public** repo named exactly `srinivaspalnati22-png` (same as your username). Also the free stats server occasionally rate-limits — just refresh after a minute.
 
 <br/>
 
@@ -71,24 +70,48 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 <br/>
 
-### 🐍 Contribution Snake (animated)
+### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
 </div>
 
-> ⚙️ This snake animation needs a one-time GitHub Action setup — instructions below.
+> ⚙️ Needs a one-time GitHub Action (see setup instructions below the file).
 
 <br/>
 
 ### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **TrustShield AI** | AI-powered scam & phishing protection — scans messages, verifies offer letters, fact-checks content, with a threat-intel feed and analytics dashboard | Python, AI APIs |
+| **SmartCivic AI** | Multilingual civic issue reporting platform with voice support in English, Hindi, Telugu & Tamil, smart complaint categorization | Python, Flask, JS |
+| **CareerSafe** | Detects job scams & fraudulent postings, verifies resume authenticity, gives AI career guidance, Android support via Capacitor | Python, Flask, Vite, Capacitor, OpenAI API |
+| **NexusAI** | Retail demand-forecasting platform with predictive analytics & interactive dashboards | Python, Flask, JS, Tailwind, Chart.js |
+| **TruthLens AI** | Fake-news detector combining sentiment analysis, clickbait detection, bias analysis & credibility scoring | Python, Flask, Tailwind, Chart.js |
+| **Pulsevein** *(new)* | Multimodal deepfake reality-checker using rPPG physiological signals + lip-audio sync + explainable forensic reports | Python, CV, Signal Processing |
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=mordernportfolio&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=Retaildemandai&theme=radical&hide_border=true"/>
+
+</div>
+
+<br/>
+
+### 📜 Certifications
+
+<div align="center">
+
+![Explore ML with Python](https://img.shields.io/badge/Infosys_Springboard-Explore_ML_with_Python-1B2A41?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Infosys_Springboard-Prompt_Engineering-1B2A41?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Infosys_Springboard-Intro_to_Deep_Learning-1B2A41?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Infosys_Springboard-Intro_to_NLP-1B2A41?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Infosys_Springboard-Software_Engineering-1B2A41?style=for-the-badge)
+![NIPAM IP Awareness](https://img.shields.io/badge/IP_Office_of_India-NIPAM_IP_Awareness-1B2A41?style=for-the-badge)
 
 </div>
 
@@ -98,17 +121,14 @@ fun_fact: "I turn ☕ into 🧠-powered code"
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:srinivaspalnati22@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/srinivaspalnati1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </div>
