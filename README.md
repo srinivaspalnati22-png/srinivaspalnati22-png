@@ -81,23 +81,9 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 </div>
 
-> ⚠️ **If stats stay blank / show a broken-image icon:**
-> 1. **The old `github-readme-stats.vercel.app` domain is dead** — its owner paused the public deployment (503 `DEPLOYMENT_PAUSED`), which is exactly what caused the broken squares in your screenshot. It's not a mistake in your file. The project's own maintainers now point everyone to **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)**, an actively maintained fork with an identical API — the two cards above now use `github-stats-extended.vercel.app` instead, which should render immediately.
-> 2. The old `github-readme-streak-stats.herokuapp.com` domain is dead, and its official replacement `streak-stats.demolab.com` is also unreliable right now (developers are reporting the same broken-square issue on its own GitHub repo this week). The streak card above now points to `github-readme-streak-stats-eight.vercel.app`, a mirror people are confirming still works.
-> 3. This file must live in a **public** repository named **exactly** `srinivaspalnati22-png` (same as your GitHub username) — that's the only repo GitHub renders on your profile page.
-> 4. Even maintained instances are shared/free-tier and can rate-limit under heavy traffic. If a card is ever greyed out again, refresh after a minute — and if it becomes a recurring problem, the permanent fix is self-hosting your own instance (one-click deploy from the same repo to your own Vercel account).
-
 <br/>
 
-## 🔁 Why "git status" / the snake animation looks stuck
 
-If commits aren't showing up or the contribution snake isn't animating, it's almost always one of these — not the README markdown itself:
-
-- **Local vs. remote mismatch** — `git status` only reflects your local repo. Run `git add . && git commit -m "update" && git push` and check the *actual* commit history on GitHub, not just your terminal.
-- **Wrong branch** — make sure you're pushing to the branch GitHub Pages / your profile repo actually reads (usually `main`).
-- **Snake needs its own GitHub Action** — the snake SVG only regenerates when the `github-contribution-grid-snake.yml` workflow runs on a schedule. If you haven't added that workflow yet (see setup section below), the image link is pointing at a branch (`output`) that doesn't exist, which is why it looks broken.
-
-<br/>
 
 ## 🐍 Contribution Snake
 
@@ -106,9 +92,9 @@ If commits aren't showing up or the contribution snake isn't animating, it's alm
 </div>
 
 <details>
-<summary>⚙️ One-time setup (click to expand)</summary>
+<summary>⚙️ One-time GitHub Action setup (click to expand)</summary>
 
-1. In your `srinivaspalnati22-png` repo, create `.github/workflows/snake.yml` with:
+Create `.github/workflows/snake.yml` in your `srinivaspalnati22-png` repo:
 
 ```yaml
 name: Generate Snake
@@ -140,8 +126,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-2. Push it, then go to the **Actions** tab and run it once manually (`workflow_dispatch`).
-3. It creates the `output` branch automatically — after that the image above will render and refresh every 6 hours.
+Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), and it will create the `output` branch automatically — after that the snake refreshes every 6 hours.
 
 </details>
 
@@ -180,7 +165,7 @@ jobs:
 
 </div>
 
-> ⚠️ Pinned-repo cards only render if the **repo name in the URL matches exactly** (case-sensitive) and the repo is public. Double-check `TRUTHSHEILD-AI` — if the real repo is spelled `TRUTHSHIELD-AI`, that mismatch alone will show a broken image.
+> Repo names in pinned-card URLs are case-sensitive — double-check `TRUTHSHEILD-AI` matches your actual repo spelling.
 
 <br/>
 
