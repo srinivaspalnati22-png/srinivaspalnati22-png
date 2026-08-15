@@ -72,8 +72,8 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
@@ -82,9 +82,10 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 </div>
 
 > ⚠️ **If stats stay blank / show a broken-image icon:**
-> 1. This file must live in a **public** repository named **exactly** `srinivaspalnati22-png` (same as your GitHub username) — that's the only repo GitHub renders on your profile page.
-> 2. The old `github-readme-streak-stats.herokuapp.com` domain is dead — this version now points to `streak-stats.demolab.com`, the maintained mirror.
-> 3. The free stats server occasionally rate-limits; if a card is greyed out, just refresh after a minute or two.
+> 1. **The old `github-readme-stats.vercel.app` domain is dead** — its owner paused the public deployment (503 `DEPLOYMENT_PAUSED`), which is exactly what caused the broken squares in your screenshot. It's not a mistake in your file. The project's own maintainers now point everyone to **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)**, an actively maintained fork with an identical API — the two cards above now use `github-stats-extended.vercel.app` instead, which should render immediately.
+> 2. The old `github-readme-streak-stats.herokuapp.com` domain is also dead — the streak card above already points to `streak-stats.demolab.com`, the maintained mirror.
+> 3. This file must live in a **public** repository named **exactly** `srinivaspalnati22-png` (same as your GitHub username) — that's the only repo GitHub renders on your profile page.
+> 4. Even maintained instances are shared/free-tier and can rate-limit under heavy traffic. If a card is ever greyed out again, refresh after a minute — and if it becomes a recurring problem, the permanent fix is self-hosting your own instance (one-click deploy from the same repo to your own Vercel account).
 
 <br/>
 
@@ -172,10 +173,10 @@ jobs:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=Retaildemandai&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=Retaildemandai&theme=radical&hide_border=true"/>
 
 </div>
 
