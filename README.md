@@ -3,26 +3,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SDE%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=B.Tech+CSE+Student+%40+NRI+University;AI%2FML+%7C+Full-Stack+%7C+Startup+Builder;Building+AI-powered+products+%F0%9F%9A%80;5%2B+hackathons+%7C+1+First+Prize+win+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=B.Tech+CSE+Student+%40+NRI+University;AI%2FML+%7C+Full-Stack+%7C+Startup+Builder;Building+AI-powered+products+%F0%9F%9A%80;5%2B+hackathons+%7C+1+First+Prize+win+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Badge"/>
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Badge"/>
 
 </div>
 
----
+<br/>
 
-### About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pradesh) focused on becoming a Software Development Engineer or AI/ML Engineer at a product-based company. I build AI-powered applications end-to-end — from idea to a working, deployed product — and have shipped five of them across scam detection, civic-tech, and career-safety.
+I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pradesh) focused on becoming a **Software Development Engineer** or **AI/ML Engineer** at a product-based company. I build AI-powered applications end-to-end — from idea to a working, deployed product — and have shipped **five** of them across scam detection, civic-tech, and career-safety.
 
-**Currently strengthening:** Python, Java, and Data Structures & Algorithms, with DBMS, SQL, Operating Systems, Computer Networks, core CS fundamentals, and Spring Boot next on the roadmap.
-
-**Recent work:** Pulsevein, a multimodal deepfake-detection system built at the InnoGenesis 24-Hour Hackathon (Aug 2026), using rPPG physiological signal analysis and lip–audio synchronization to flag synthetic media.
-
-**Track record:** 5+ hackathons, including a First Prize win at NRI Institute of Technology, and active problem-solving practice on HackerRank.
+- 🔭 **Currently strengthening:** Python, Java, and Data Structures & Algorithms
+- 📚 **Next on the roadmap:** DBMS, SQL, Operating Systems, Computer Networks, Spring Boot
+- 🧪 **Recent work:** **Pulsevein** — a multimodal deepfake-detection system built at the InnoGenesis 24-Hour Hackathon (Aug 2026), using rPPG physiological signal analysis and lip–audio synchronization to flag synthetic media
+- 🏆 **Track record:** 5+ hackathons, including a **First Prize** win at NRI Institute of Technology, plus active problem-solving practice on HackerRank
 
 <div align="center">
 
@@ -37,17 +36,39 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,flutter,firebase,git,github,vscode,tailwind&theme=dark" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,react,vite&theme=dark" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,java,flask,nodejs,firebase&theme=dark" />
+
+### 🤖 AI / ML & Data
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Flow-34A853?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Agents-FBBC05?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+### 🧰 IDE, Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+
+<img src="https://img.shields.io/badge/Antigravity_IDE-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=00C9FF" />
+<img src="https://img.shields.io/badge/Firebase_Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </div>
 
+> 💡 The **Antigravity / Google Flow / Agents** badges are static shields (skillicons.dev doesn't host icons for these yet) — they render immediately and won't break.
+
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -56,15 +77,76 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=srinivaspalnati22-png&theme=radical&hide_border=true" />
 
 </div>
 
-> 💡 **If these stay blank:** this file must live in a **public** repo named exactly `srinivaspalnati22-png` (same as your username). Also the free stats server occasionally rate-limits — just refresh after a minute.
+> ⚠️ **If stats stay blank / show a broken-image icon:**
+> 1. This file must live in a **public** repository named **exactly** `srinivaspalnati22-png` (same as your GitHub username) — that's the only repo GitHub renders on your profile page.
+> 2. The old `github-readme-streak-stats.herokuapp.com` domain is dead — this version now points to `streak-stats.demolab.com`, the maintained mirror.
+> 3. The free stats server occasionally rate-limits; if a card is greyed out, just refresh after a minute or two.
 
 <br/>
 
-### 🏆 Achievements
+## 🔁 Why "git status" / the snake animation looks stuck
+
+If commits aren't showing up or the contribution snake isn't animating, it's almost always one of these — not the README markdown itself:
+
+- **Local vs. remote mismatch** — `git status` only reflects your local repo. Run `git add . && git commit -m "update" && git push` and check the *actual* commit history on GitHub, not just your terminal.
+- **Wrong branch** — make sure you're pushing to the branch GitHub Pages / your profile repo actually reads (usually `main`).
+- **Snake needs its own GitHub Action** — the snake SVG only regenerates when the `github-contribution-grid-snake.yml` workflow runs on a schedule. If you haven't added that workflow yet (see setup section below), the image link is pointing at a branch (`output`) that doesn't exist, which is why it looks broken.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
+</div>
+
+<details>
+<summary>⚙️ One-time setup (click to expand)</summary>
+
+1. In your `srinivaspalnati22-png` repo, create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, then go to the **Actions** tab and run it once manually (`workflow_dispatch`).
+3. It creates the `output` branch automatically — after that the image above will render and refresh every 6 hours.
+
+</details>
+
+<br/>
+
+## 🏆 Achievements
 
 <div align="center">
 
@@ -77,17 +159,7 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <br/>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
-</div>
-
-> ⚙️ Needs a one-time GitHub Action (see setup instructions below the file).
-
-<br/>
-
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -107,9 +179,11 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 </div>
 
+> ⚠️ Pinned-repo cards only render if the **repo name in the URL matches exactly** (case-sensitive) and the repo is public. Double-check `TRUTHSHEILD-AI` — if the real repo is spelled `TRUTHSHIELD-AI`, that mismatch alone will show a broken image.
+
 <br/>
 
-### 📜 Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -124,7 +198,7 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <br/>
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -143,5 +217,3 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer" width="100%"/>
-
-</div>
