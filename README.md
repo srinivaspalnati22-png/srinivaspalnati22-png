@@ -68,20 +68,7 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=srinivaspalnati22-png&theme=radical&hide_border=true" />
-
-</div>
-
-<br/>
 
 
 
