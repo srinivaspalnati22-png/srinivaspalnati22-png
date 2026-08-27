@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **3rd Year Computer Science Engineering** student at **NRI University, Andhra Pradesh**, passionate about building intelligent systems and scalable software solutions. My goal is to secure a role as a **Software Development Engineer** or **AI/ML Engineer** at a leading product-based company.
+I'm a **3rd Year Computer Science Engineering** student at **NRI University, Andhra Pradesh**, passionate about building intelligent systems and scalable, production-grade software. My goal is to secure a role as a **Software Development Engineer** or **AI/ML Engineer** at a leading product-based company.
 
 <div align="center">
 
@@ -24,7 +24,7 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 |---|---|
 | 🎓 **Education** | B.Tech CSE, NRI University (2024–2028) |
 | 🎯 **Target Roles** | SDE · AI/ML Engineer |
-| 🔥 **Specialization** | Python, Java, ML/DL, Signal Processing, Web Development |
+| 🔥 **Specialization** | Python, Java, ML/DL, Signal Processing, Full-Stack Web Development |
 | 🏆 **Achievements** | 5+ Hackathons · First Prize Winner · 6 Certifications |
 
 </div>
@@ -33,7 +33,7 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 
 - 🔭 **Mastering:** Python, Java, DSA, ML/DL frameworks
 - 📚 **Roadmap:** DBMS, SQL, Operating Systems, Computer Networks, Spring Boot
-- 🧪 **Latest:** **Pulsevein** — Multimodal deepfake detection using rPPG physiological analysis & lip-audio synchronization (InnoGenesis 24-Hour Hackathon, Aug 2026)
+- 🧪 **Latest:** **RESQONE AI** — a production-deployed autonomous emergency-response platform, and **Pulsevein** — multimodal deepfake detection using rPPG physiological analysis & lip-audio synchronization (InnoGenesis 24-Hour Hackathon, Aug 2026)
 
 <br/>
 
@@ -42,10 +42,10 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,react,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,flutter,react,vite&theme=dark" />
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=python,java,flask,nodejs,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,nodejs,supabase,firebase&theme=dark" />
 
 ### 🤖 AI / ML & Data Science
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
@@ -55,7 +55,7 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ### 🧰 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel&theme=dark" />
 
 </div>
 
@@ -67,19 +67,43 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 
 | # | Project | Description | Stack | Status |
 |---|---|---|---|---|
-| 1 | **⭐ Pulsevein** | *NEW* — Multimodal deepfake detection using rPPG physiological signals, lip-audio sync analysis, and forensic reporting | Python, OpenCV, Signal Processing, TensorFlow | 🎯 InnoGenesis Hackathon 2026 |
-| 2 | **TrustShield AI** | Advanced scam & phishing protection with message scanning, offer verification, fact-checking, and threat intelligence | Python, AI APIs, Flask | ✅ Shipped |
-| 3 | **SmartCivic AI** | Multilingual civic issue reporting (EN, Hindi, Telugu, Tamil) with voice support and smart categorization | Python, Flask, JS | ✅ Shipped |
-| 4 | **CareerSafe** | AI-powered job scam detector, resume authenticity verifier, career guidance with Android support | Python, Flask, Vite, Capacitor, OpenAI | ✅ Shipped |
-| 5 | **TruthLens AI** | Comprehensive fake-news detector (sentiment, clickbait, bias, credibility scoring) | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
-| 6 | **NexusAI** | Retail demand-forecasting platform with predictive analytics & interactive dashboards | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
+| 1 | **🚑 RESQONE AI** | *Flagship* — Unified emergency triage & autonomous rescue intelligence platform with AI pre-crash detection, a 25s SOS broadcast, live 3D ambulance GPS tracking, and multi-role mission dashboards for hospitals, 108 rescue teams, blood donors & volunteers | React, Three.js, FastAPI, Supabase | 🟢 Live in Production |
+| 2 | **⭐ Pulsevein** | Multimodal deepfake detection using rPPG physiological signals, lip-audio sync analysis, and forensic reporting | Python, OpenCV, Signal Processing, TensorFlow | 🎯 InnoGenesis Hackathon 2026 |
+| 3 | **TrustShield AI** | Advanced scam & phishing protection with message scanning, offer verification, fact-checking, and threat intelligence | Python, AI APIs, Flask | ✅ Shipped |
+| 4 | **SmartCivic AI** | Multilingual civic issue reporting (EN, Hindi, Telugu, Tamil) with voice support and smart categorization | Python, Flask, JS | ✅ Shipped |
+| 5 | **CareerSafe** | AI-powered job scam detector, resume authenticity verifier, career guidance with Android support | Python, Flask, Vite, Capacitor, OpenAI | ✅ Shipped |
+| 6 | **TruthLens AI** | Comprehensive fake-news detector (sentiment, clickbait, bias, credibility scoring) | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
+| 7 | **NexusAI** | Retail demand-forecasting platform with predictive analytics & interactive dashboards | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
 
 </div>
+
+<br/>
+
+### 🚑 Spotlight: RESQONE AI
+
+**Unified Emergency Intelligence & Autonomous Rescue Platform** — designed to save lives during the critical "Golden Hour" across accident, medical, snakebite, and blood-shortage emergencies.
+
+<div align="center">
+
+[![Live App](https://img.shields.io/badge/Live%20App-resqone--ai--app.vercel.app-red?style=for-the-badge&logo=vercel)](https://resqone-ai-app.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/srinivaspalnati22-png/RESQONE-AI)
+[![Status](https://img.shields.io/badge/Deployment-Production%20Live-emerald?style=for-the-badge)](https://resqone-ai-app.vercel.app)
+
+</div>
+
+**Highlights:**
+- 🛡️ **AI Pre-Crash Safety Radar** — sensor-fusion hazard detection (G-force, gyroscope, GPS speed) with a 15-second multilingual voice decision window before a crash is confirmed
+- ⏱️ **25-Second SOS Broadcast** — automatically alerts family members, the regional emergency network, and dispatches an ALS ambulance with an ICU bay reservation
+- 🗺️ **Live 3D Ambulance Tracking** — animated GPS map showing real-time transit along green-corridor routes
+- 🎛️ **Multi-Role Mission Dashboard** — dedicated live views for citizens, hospitals, 108 rescue teams, blood donors, and volunteer responders
+- 🩸 **Smart Blood Donor Matching** — deterministic ABO/Rh compatibility matching with live donor and blood-bank mapping
+- 🐍 **Snakebite Toxicology Locator** — species identification matrix paired with a live antivenom-stock hospital locator
 
 ### 📊 Project Showcase
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=RESQONE-AI&theme=radical&hide_border=true"/>
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
@@ -95,7 +119,7 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 
 ![First Prize](https://img.shields.io/badge/🥇_First_Prize-5--Hour_Hackathon,_NRI_IT-FFD700?style=for-the-badge&labelColor=1a1a1a)
 ![Hackathons](https://img.shields.io/badge/🎯_5%2B_Hackathons-Participated_&_Won-00C9FF?style=for-the-badge&labelColor=1a1a1a)
-![Projects](https://img.shields.io/badge/🚀_6_AI_Platforms-Shipped_to_Production-7F00FF?style=for-the-badge&labelColor=1a1a1a)
+![Projects](https://img.shields.io/badge/🚀_7_AI_Platforms-Shipped_&_Deployed-7F00FF?style=for-the-badge&labelColor=1a1a1a)
 ![Certifications](https://img.shields.io/badge/📜_6_Certifications-Infosys_%26_NIPAM-2EC866?style=for-the-badge&labelColor=1a1a1a)
 
 </div>
