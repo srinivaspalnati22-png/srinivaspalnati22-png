@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=🚀+Software+Development+Engineer;🤖+AI%2FML+Engineer;💻+Problem+Solver;🏆+5%2B+Hackathon+Winner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=🎯+Aspiring+SDE+%7C+AI%2FML+Engineer;🚑+Building+RESQONE+AI+-+Live+Emergency+Rescue+Platform;🧠+Training+Deepfake+Detection+Models+with+rPPG+Signals;🏆+5%2B+Hackathons+Won+%7C+Building+Under+Pressure;⚔️+Grinding+Java+%2B+DSA+Daily+on+LeetCode;🌐+Learning+Computer+Networks+%26+OS+Internals;🚀+Shipping+AI+Products,+Not+Just+Prototypes;💡+Turning+24-Hour+Hackathon+Ideas+into+Production+Apps" />
 </a>
 
 <br/>
@@ -16,16 +16,15 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="240" valign="top" align="center">
-<img src="https://github.com/srinivaspalnati22-png.png" width="200" style="border-radius:50%;" alt="Srinivas"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1a1a?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE_'28-1a1a1a?style=flat-square" /><br/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE_'28-1a1a1a?style=flat-square" />
 <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-2EC866?style=flat-square" />
-</td>
-<td valign="top">
+
+</div>
+
+<br/>
 
 > *"Building systems that don't just compute — they respond, protect, and save time when it matters most."*
 
@@ -33,7 +32,7 @@ I'm a **3rd Year Computer Science Engineering** student at **NRI University, And
 
 Beyond that, I build across the AI/ML and full-stack spectrum — from deepfake forensics to civic-tech to fraud detection — and I'm chasing a role as a **Software Development Engineer** or **AI/ML Engineer** at a product-first company where I can keep building things that matter.
 
-<div align="left">
+<div align="center">
 
 | | |
 |---|---|
@@ -44,10 +43,6 @@ Beyond that, I build across the AI/ML and full-stack spectrum — from deepfake 
 | 🏆 **Achievements** | 5+ Hackathons · First Prize Winner · 6 Certifications |
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ### 📊 Current Focus
 
