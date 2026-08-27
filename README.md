@@ -16,18 +16,38 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **3rd Year Computer Science Engineering** student at **NRI University, Andhra Pradesh**, passionate about building intelligent systems and scalable, production-grade software. My goal is to secure a role as a **Software Development Engineer** or **AI/ML Engineer** at a leading product-based company.
+<table>
+<tr>
+<td width="240" valign="top" align="center">
+<img src="https://github.com/srinivaspalnati22-png.png" width="200" style="border-radius:50%;" alt="Srinivas"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1a1a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE_'28-1a1a1a?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-2EC866?style=flat-square" />
+</td>
+<td valign="top">
 
-<div align="center">
+> *"Building systems that don't just compute — they respond, protect, and save time when it matters most."*
 
-| **Focus Area** | **Details** |
+I'm a **3rd Year Computer Science Engineering** student at **NRI University, Andhra Pradesh**, driven by one question: *how far can software go in an emergency?* That question shipped **RESQONE AI**, a live, production-deployed platform combining sensor fusion, real-time GPS routing, and multi-agency coordination to shrink response time in the Golden Hour.
+
+Beyond that, I build across the AI/ML and full-stack spectrum — from deepfake forensics to civic-tech to fraud detection — and I'm chasing a role as a **Software Development Engineer** or **AI/ML Engineer** at a product-first company where I can keep building things that matter.
+
+<div align="left">
+
+| | |
 |---|---|
-| 🎓 **Education** | B.Tech CSE, NRI University (2024–2028) |
+| 🎓 **Education** | B.Tech CSE, NRI University *(2024–2028)* |
 | 🎯 **Target Roles** | SDE · AI/ML Engineer |
-| 🔥 **Specialization** | Python, Java, ML/DL, Signal Processing, Full-Stack Web Development |
+| 🔥 **Specialization** | Python, Java, ML/DL, Signal Processing, Full-Stack Web Dev |
+| 🚀 **Shipped** | 7 AI-powered platforms, 1 in production with real users |
 | 🏆 **Achievements** | 5+ Hackathons · First Prize Winner · 6 Certifications |
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ### 📊 Current Focus
 
