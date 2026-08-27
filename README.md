@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20SDE%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=B.Tech+CSE+Student+%40+NRI+University;AI%2FML+%7C+Full-Stack+%7C+Startup+Builder;Building+AI-powered+products+%F0%9F%9A%80;5%2B+hackathons+%7C+1+First+Prize+win+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=🚀+Software+Development+Engineer;🤖+AI%2FML+Engineer;💻+Problem+Solver;🏆+5%2B+Hackathon+Winner" />
 </a>
 
 <br/>
@@ -16,23 +16,24 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pradesh) focused on becoming a **Software Development Engineer** or **AI/ML Engineer** at a product-based company. I build AI-powered applications end-to-end — from idea to a working, deployed product — and have shipped **five** of them across scam detection, civic-tech, and career-safety.
-
-- 🔭 **Currently strengthening:** Python, Java, and Data Structures & Algorithms
-- 📚 **Next on the roadmap:** DBMS, SQL, Operating Systems, Computer Networks, Spring Boot
-- 🧪 **Recent work:** **Pulsevein** — a multimodal deepfake-detection system built at the InnoGenesis 24-Hour Hackathon (Aug 2026), using rPPG physiological signal analysis and lip–audio synchronization to flag synthetic media
-- 🏆 **Track record:** 5+ hackathons, including a **First Prize** win at NRI Institute of Technology, plus active problem-solving practice on HackerRank
+I'm a **3rd Year Computer Science Engineering** student at **NRI University, Andhra Pradesh**, passionate about building intelligent systems and scalable software solutions. My goal is to secure a role as a **Software Development Engineer** or **AI/ML Engineer** at a leading product-based company.
 
 <div align="center">
 
-| | |
+| **Focus Area** | **Details** |
 |---|---|
 | 🎓 **Education** | B.Tech CSE, NRI University (2024–2028) |
 | 🎯 **Target Roles** | SDE · AI/ML Engineer |
-| 🧩 **Practicing** | [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) — DSA, Java, Python |
-| 🏆 **Highlight** | First Prize, 5-Hour Hackathon, NRI IT |
+| 🔥 **Specialization** | Python, Java, ML/DL, Signal Processing, Web Development |
+| 🏆 **Achievements** | 5+ Hackathons · First Prize Winner · 6 Certifications |
 
 </div>
+
+### 📊 Current Focus
+
+- 🔭 **Mastering:** Python, Java, DSA, ML/DL frameworks
+- 📚 **Roadmap:** DBMS, SQL, Operating Systems, Computer Networks, Spring Boot
+- 🧪 **Latest:** **Pulsevein** — Multimodal deepfake detection using rPPG physiological analysis & lip-audio synchronization (InnoGenesis 24-Hour Hackathon, Aug 2026)
 
 <br/>
 
@@ -43,45 +44,102 @@ I'm a Computer Science Engineering student (3rd year, NRI University, Andhra Pra
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,react,vite&theme=dark" />
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=python,java,flask,nodejs,firebase&theme=dark" />
 
-### 🤖 AI / ML & Data
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+### 🤖 AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
 
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Flow-34A853?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Agents-FBBC05?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-### 🧰 IDE, Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-<img src="https://img.shields.io/badge/Antigravity_IDE-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=00C9FF" />
-<img src="https://img.shields.io/badge/Firebase_Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+### 🧰 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=dark" />
 
 </div>
 
-> 💡 The **Antigravity / Google Flow / Agents** badges are static shields (skillicons.dev doesn't host icons for these yet) — they render immediately and won't break.
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| # | Project | Description | Stack | Status |
+|---|---|---|---|---|
+| 1 | **⭐ Pulsevein** | *NEW* — Multimodal deepfake detection using rPPG physiological signals, lip-audio sync analysis, and forensic reporting | Python, OpenCV, Signal Processing, TensorFlow | 🎯 InnoGenesis Hackathon 2026 |
+| 2 | **TrustShield AI** | Advanced scam & phishing protection with message scanning, offer verification, fact-checking, and threat intelligence | Python, AI APIs, Flask | ✅ Shipped |
+| 3 | **SmartCivic AI** | Multilingual civic issue reporting (EN, Hindi, Telugu, Tamil) with voice support and smart categorization | Python, Flask, JS | ✅ Shipped |
+| 4 | **CareerSafe** | AI-powered job scam detector, resume authenticity verifier, career guidance with Android support | Python, Flask, Vite, Capacitor, OpenAI | ✅ Shipped |
+| 5 | **TruthLens AI** | Comprehensive fake-news detector (sentiment, clickbait, bias, credibility scoring) | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
+| 6 | **NexusAI** | Retail demand-forecasting platform with predictive analytics & interactive dashboards | Python, Flask, Tailwind, Chart.js | ✅ Shipped |
+
+</div>
+
+### 📊 Project Showcase
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=Retaildemandai&theme=radical&hide_border=true"/>
+
+</div>
 
 <br/>
 
+## 🏆 Achievements & Recognition
 
+<div align="center">
 
+![First Prize](https://img.shields.io/badge/🥇_First_Prize-5--Hour_Hackathon,_NRI_IT-FFD700?style=for-the-badge&labelColor=1a1a1a)
+![Hackathons](https://img.shields.io/badge/🎯_5%2B_Hackathons-Participated_&_Won-00C9FF?style=for-the-badge&labelColor=1a1a1a)
+![Projects](https://img.shields.io/badge/🚀_6_AI_Platforms-Shipped_to_Production-7F00FF?style=for-the-badge&labelColor=1a1a1a)
+![Certifications](https://img.shields.io/badge/📜_6_Certifications-Infosys_%26_NIPAM-2EC866?style=for-the-badge&labelColor=1a1a1a)
 
+</div>
 
-## 🐍 Contribution Snake
+<br/>
+
+## 📚 Competitive Programming & Problem Solving
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/profile/srinivaspalnati1)](https://www.hackerrank.com/profile/srinivaspalnati1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/srinivaspalnati22-png/)](https://leetcode.com/u/srinivaspalnati22-png/)
+
+**Active daily on LeetCode & HackerRank for DSA & algorithm mastery**
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+![Explore ML](https://img.shields.io/badge/Infosys_Springboard-Explore_ML_with_Python-1B2A41?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Infosys_Springboard-Prompt_Engineering-1B2A41?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Infosys_Springboard-Intro_to_Deep_Learning-1B2A41?style=for-the-badge)
+![NLP](https://img.shields.io/badge/Infosys_Springboard-Intro_to_NLP-1B2A41?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Infosys_Springboard-Software_Engineering-1B2A41?style=for-the-badge)
+![IP Awareness](https://img.shields.io/badge/NIPAM_IP_Office-IP_Awareness_Training-1B2A41?style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 🐍 GitHub Contribution Activity
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/srinivaspalnati22-png/srinivaspalnati22-png/output/github-contribution-grid-snake.svg" />
 </div>
 
 <details>
-<summary>⚙️ One-time GitHub Action setup (click to expand)</summary>
+<summary>⚙️ Snake Animation Setup (click to expand)</summary>
 
-Create `.github/workflows/snake.yml` in your `srinivaspalnati22-png` repo:
+To enable the contribution snake animation in your profile, create `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake
@@ -113,61 +171,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), and it will create the `output` branch automatically — after that the snake refreshes every 6 hours.
+Push this file, manually trigger the workflow from the **Actions** tab, and it will automatically refresh every 6 hours.
 
 </details>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![First Prize](https://img.shields.io/badge/🥇_First_Prize-5--Hour_Hackathon,_NRI_IT-FFD700?style=for-the-badge&labelColor=1a1a1a)
-![Hackathons](https://img.shields.io/badge/🎯_5%2B_Hackathons-Participated-00C9FF?style=for-the-badge&labelColor=1a1a1a)
-![Projects Shipped](https://img.shields.io/badge/🚀_5_AI_Platforms-Shipped-7F00FF?style=for-the-badge&labelColor=1a1a1a)
-![Certifications](https://img.shields.io/badge/📜_6_Certifications-Infosys_%26_NIPAM-2EC866?style=for-the-badge&labelColor=1a1a1a)
-
-</div>
-
-<br/>
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **TrustShield AI** | AI-powered scam & phishing protection — scans messages, verifies offer letters, fact-checks content, with a threat-intel feed and analytics dashboard | Python, AI APIs |
-| **SmartCivic AI** | Multilingual civic issue reporting platform with voice support in English, Hindi, Telugu & Tamil, smart complaint categorization | Python, Flask, JS |
-| **CareerSafe** | Detects job scams & fraudulent postings, verifies resume authenticity, gives AI career guidance, Android support via Capacitor | Python, Flask, Vite, Capacitor, OpenAI API |
-| **NexusAI** | Retail demand-forecasting platform with predictive analytics & interactive dashboards | Python, Flask, JS, Tailwind, Chart.js |
-| **TruthLens AI** | Fake-news detector combining sentiment analysis, clickbait detection, bias analysis & credibility scoring | Python, Flask, Tailwind, Chart.js |
-| **Pulsevein** *(new)* | Multimodal deepfake reality-checker using rPPG physiological signals + lip-audio sync + explainable forensic reports | Python, CV, Signal Processing |
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=AI-POWERED-CAREER-SAFETY&theme=radical&hide_border=true"/>
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=SMARTCIVIC-AI&theme=radical&hide_border=true"/>
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=TRUTHSHEILD-AI&theme=radical&hide_border=true"/>
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=srinivaspalnati22-png&repo=Retaildemandai&theme=radical&hide_border=true"/>
-
-</div>
-
-> Repo names in pinned-card URLs are case-sensitive — double-check `TRUTHSHEILD-AI` matches your actual repo spelling.
-
-<br/>
-
-## 📜 Certifications
-
-<div align="center">
-
-![Explore ML with Python](https://img.shields.io/badge/Infosys_Springboard-Explore_ML_with_Python-1B2A41?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Infosys_Springboard-Prompt_Engineering-1B2A41?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Infosys_Springboard-Intro_to_Deep_Learning-1B2A41?style=for-the-badge)
-![NLP](https://img.shields.io/badge/Infosys_Springboard-Intro_to_NLP-1B2A41?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Infosys_Springboard-Software_Engineering-1B2A41?style=for-the-badge)
-![NIPAM IP Awareness](https://img.shields.io/badge/IP_Office_of_India-NIPAM_IP_Awareness-1B2A41?style=for-the-badge)
-
-</div>
 
 <br/>
 
@@ -178,11 +184,14 @@ Push it, run it once manually from the **Actions** tab (`workflow_dispatch`), an
 <a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:srinivaspalnati22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://www.hackerrank.com/profile/srinivaspalnati1" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/srinivaspalnati22-png/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="mailto:srinivaspalnati22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
