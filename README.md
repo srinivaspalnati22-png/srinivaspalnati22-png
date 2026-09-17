@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1a1a?style=flat-square" />
+<img src="https://img.shields.io/badge/📍_Andhra_Pradesh,_India-1a1a1a?style=flat-square"  />
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_'28-1a1a1a?style=flat-square" />
 <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-2EC866?style=flat-square" />
 
