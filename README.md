@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Hi%20There,%20I'm%20Srinivas%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"  />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=200&lines=🎯+Aspiring+SDE+%7C+AI%2FML+Engineer;🚑+Building+RESQONE+AI+-+Live+Emergency+Rescue+Platform;🧠+Training+Deepfake+Detection+Models+with+rPPG+Signals;🏆+5%2B+Hackathons+Won+%7C+Building+Under+Pressure;⚔️+Grinding+Java+%2B+DSA+Daily+on+LeetCode;🌐+Learning+Computer+Networks+%26+OS+Internals;🚀+Shipping+AI+Products,+Not+Just+Prototypes;💡+Turning+24-Hour+Hackathon+Ideas+into+Production+Apps" />
