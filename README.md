@@ -8,7 +8,7 @@
 
 # ⚡ I BUILD SOFTWARE THAT SOLVES REAL PROBLEMS.
 
-<img src="https://readme-typing-svg.demolab. com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
 
 <br/>
 
