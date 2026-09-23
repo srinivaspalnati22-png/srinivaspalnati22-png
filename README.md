@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- ==================== HERO ==================== --> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=260&section=header&text=PALNATI%20SRINIVAS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=E8F7FF"/>
 
