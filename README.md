@@ -1,22 +1,22 @@
 <div align="center">
- 
+
 <!-- ==================== HERO ==================== --> 
- 
-<img src="https://capsule-render.vercel.app/api? type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=260&section=header&text=PALNATI%20SRINIVAS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=E8F7FF"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=260&section=header&text=PALNATI%20SRINIVAS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descColor=E8F7FF"/>
 
 <br/> 
- 
-# ⚡ I BUILD SOFTWARE THAT SOLVES REAL PROBLEMS.
-     
-<img src="https://readme-typing-svg.demolab. com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
+
+⚡ I BUILD SOFTWARE THAT SOLVES REAL PROBLEMS.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
 
 <br/>
 
-**P. Srinivas** · `CSE @ NRI University` · `Andhra Pradesh, India`
+P. Srinivas · CSE @ NRI University · Andhra Pradesh, India
 
 <br/>
 
-`AI/ML`  •  `Full-Stack`  •  `Java + DSA`  •  `Python`
+AI/ML  •  Full-Stack  •  Java + DSA  •  Python
 
 <br/><br/>
 
@@ -24,58 +24,97 @@
 
 </div>
 
----
+<p align="center">
+  <a href="#-who-i-am">About</a> •
+  <a href="#-what-im-building">Projects</a> •
+  <a href="#-technology-universe">Tech Stack</a> •
+  <a href="#-achievements">Achievements</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
 
-## 🧭 Who I Am
+🧭 Who I Am
 
-I'm **Palnati Pushpa Naga Venkata Srinivas**, a **3rd-year Computer Science Engineering student at NRI University, Andhra Pradesh**, interested in building software that goes beyond demos and solves practical problems.
+I'm Palnati Pushpa Naga Venkata Srinivas, a 3rd-year Computer Science Engineering student at NRI University, Andhra Pradesh, interested in building software that goes beyond demos and solves practical problems.
 
 My interests sit at the intersection of:
 
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 💻 **Software Development**
-* 🧩 **Data Structures & Algorithms**
-* 🌐 **Full-Stack Development**
-* 🚨 **Emergency & Safety Technology**
-* 🛡️ **Digital Trust & Security**
-* 🏙️ **Civic Technology**
+🤖 Artificial Intelligence & Machine Learning
 
-> **I don't just want to write code. I want to build systems that are useful when the code actually matters.**
+💻 Software Development
 
----
+🧩 Data Structures & Algorithms
 
-## 🚀 What I'm Building
+🌐 Full-Stack Development
+
+🚨 Emergency & Safety Technology
+
+🛡️ Digital Trust & Security
+
+🏙️ Civic Technology
+
+I don't just want to write code. I want to build systems that are useful when the code actually matters.
+
+<div align="center">
+
+🎓 Education
+
+🤖 Focus
+
+🧩 Problem Solving
+
+🚀 Building
+
+CSE · NRI University
+
+AI / ML
+
+Java + DSA
+
+Real-world AI products
+
+</div>
+
+🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚑 RESQONE AI
+🚑 RESQONE AI
 
-An AI-powered emergency intelligence platform designed around the **Golden Hour**.
+An AI-powered emergency intelligence platform designed around the Golden Hour.
 
-**Focus:**
+Focus:
 
-* Accident detection
-* Emergency SOS
-* Live ambulance tracking
-* Blood donor matching
-* Snakebite assistance
-* Emergency coordination
+Accident detection
+
+Emergency SOS
+
+Live ambulance tracking
+
+Blood donor matching
+
+Snakebite assistance
+
+Emergency coordination
 
 </td>
 
 <td width="50%">
 
-### 🧠 Pulsevein
+🧠 Pulsevein
 
 A multimodal deepfake detection system exploring:
 
-* rPPG physiological signals
-* Lip-audio synchronization
-* Computer vision
-* Signal processing
-* AI-based forensic analysis
+rPPG physiological signals
+
+Lip-audio synchronization
+
+Computer vision
+
+Signal processing
+
+AI-based forensic analysis
 
 </td>
 </tr>
@@ -83,38 +122,42 @@ A multimodal deepfake detection system exploring:
 <tr>
 <td width="50%">
 
-### 🛡️ TrustShield AI
+🛡️ TrustShield AI
 
 AI-powered digital safety platform for:
 
-* Scam detection
-* Phishing protection
-* Offer verification
-* Message analysis
-* Threat intelligence
+Scam detection
+
+Phishing protection
+
+Offer verification
+
+Message analysis
+
+Threat intelligence
 
 </td>
 
 <td width="50%">
 
-### 🏙️ SmartCivic AI
+🏙️ SmartCivic AI
 
 A multilingual civic issue reporting platform with:
 
-* Voice support
-* Smart categorization
-* Civic issue tracking
-* Multilingual interaction
+Voice support
+
+Smart categorization
+
+Civic issue tracking
+
+Multilingual interaction
 
 </td>
 </tr>
 </table>
 
----
+🎯 My Engineering Direction
 
-## 🎯 My Engineering Direction
-
-```text
                  ┌──────────────────────┐
                  │      SRINIVAS        │
                  │    CSE • Builder     │
@@ -132,47 +175,64 @@ A multilingual civic issue reporting platform with:
           └─────────────────┼─────────────────┘
                             ▼
                  REAL-WORLD PRODUCTS
-```
 
----
+🧠 Current Focus
 
-## 🧠 Current Focus
+Area
 
-| Area                | What I'm Working On                              |
-| ------------------- | ------------------------------------------------ |
-| 💻 Programming      | Java, Python                                     |
-| 🧩 Problem Solving  | DSA, LeetCode, HackerRank                        |
-| 🤖 AI/ML            | Machine Learning, Deep Learning, Computer Vision |
-| 🌐 Development      | Full-Stack Web Development                       |
-| 🗄️ Backend         | Python, Flask, FastAPI, Firebase, Supabase       |
-| 📚 Core CS          | DBMS, SQL, Operating Systems, Computer Networks  |
-| 🚀 Product Building | AI-powered real-world applications               |
+What I'm Working On
 
----
+💻 Programming
 
-# 🛠️ Technology Universe
+Java, Python
+
+🧩 Problem Solving
+
+DSA, LeetCode, HackerRank
+
+🤖 AI/ML
+
+Machine Learning, Deep Learning, Computer Vision
+
+🌐 Development
+
+Full-Stack Web Development
+
+🗄️ Backend
+
+Python, Flask, FastAPI, Firebase, Supabase
+
+📚 Core CS
+
+DBMS, SQL, Operating Systems, Computer Networks
+
+🚀 Product Building
+
+AI-powered real-world applications
+
+🛠️ Technology Universe
 
 <div align="center">
 
-### 💻 Languages
+💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark"/>
 
 <br/><br/>
 
-### 🎨 Frontend
+🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark"/>
 
 <br/><br/>
 
-### ⚙️ Backend & Databases
+⚙️ Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,firebase,supabase,mysql&theme=dark"/>
 
 <br/><br/>
 
-### 🤖 AI / ML
+🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
 
@@ -184,51 +244,141 @@ A multilingual civic issue reporting platform with:
 
 <br/><br/>
 
-### 🧰 Developer Tools
+🧰 Developer Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel&theme=dark"/>
 
 </div>
 
----
+📌 Featured Projects
 
-# 📌 Featured Projects
+A snapshot of the products and experiments currently represented in this portfolio.
 
 <div align="center">
 
-| #     | Project            | What It Does                                                  | Technology                            | Status       |
-| ----- | ------------------ | ------------------------------------------------------------- | ------------------------------------- | ------------ |
-| 🚑    | **RESQONE AI**     | Emergency intelligence & autonomous rescue platform           | React · Three.js · FastAPI · Supabase | 🟢 Live      |
-| 🧬    | **Pulsevein**      | Multimodal deepfake detection using rPPG & lip-audio analysis | Python · OpenCV · TensorFlow          | 🏆 Hackathon |
-| 🛡️   | **TrustShield AI** | Scam, phishing & threat detection                             | Python · Flask · AI APIs              | ✅ Shipped    |
-| 🏙️   | **SmartCivic AI**  | Multilingual civic issue reporting                            | Python · Flask · JavaScript           | ✅ Shipped    |
-| 🧑‍💼 | **CareerSafe**     | Job scam detection & career safety                            | Python · Flask · Vite                 | ✅ Shipped    |
-| 📰    | **TruthLens AI**   | Fake-news and credibility analysis                            | Python · Flask · Chart.js             | ✅ Shipped    |
-| 📊    | **NexusAI**        | Retail demand forecasting & analytics                         | Python · Flask · Chart.js             | ✅ Shipped    |
+#
+
+Project
+
+What It Does
+
+Technology
+
+Status
+
+🚑
+
+RESQONE AI
+
+Emergency intelligence & autonomous rescue platform
+
+React · Three.js · FastAPI · Supabase
+
+🟢 Live
+
+🧬
+
+Pulsevein
+
+Multimodal deepfake detection using rPPG & lip-audio analysis
+
+Python · OpenCV · TensorFlow
+
+🏆 Hackathon
+
+🛡️
+
+TrustShield AI
+
+Scam, phishing & threat detection
+
+Python · Flask · AI APIs
+
+✅ Shipped
+
+🏙️
+
+SmartCivic AI
+
+Multilingual civic issue reporting
+
+Python · Flask · JavaScript
+
+✅ Shipped
+
+🧑‍💼
+
+CareerSafe
+
+Job scam detection & career safety
+
+Python · Flask · Vite
+
+✅ Shipped
+
+📰
+
+TruthLens AI
+
+Fake-news and credibility analysis
+
+Python · Flask · Chart.js
+
+✅ Shipped
+
+📊
+
+NexusAI
+
+Retail demand forecasting & analytics
+
+Python · Flask · Chart.js
+
+✅ Shipped
 
 </div>
 
----
+🚑 RESQONE AI
 
-# 🚑 RESQONE AI
+Unified Emergency Intelligence & Autonomous Rescue Platform
 
-### Unified Emergency Intelligence & Autonomous Rescue Platform
+When every second matters, the system should already be thinking.
 
-> **When every second matters, the system should already be thinking.**
+RESQONE AI focuses on emergency response during the critical Golden Hour, combining AI, sensor data, real-time location intelligence and coordinated emergency workflows.
 
-RESQONE AI focuses on emergency response during the critical **Golden Hour**, combining AI, sensor data, real-time location intelligence and coordinated emergency workflows.
+⚡ Core Capabilities
 
-### ⚡ Core Capabilities
+Capability
 
-| Capability                        | Description                                                     |
-| --------------------------------- | --------------------------------------------------------------- |
-| 🛡️ **AI Pre-Crash Safety Radar** | Sensor-fusion based hazard detection                            |
-| 🚨 **Emergency SOS**              | Rapid emergency alert and response workflow                     |
-| 🗺️ **Live Ambulance Tracking**   | Real-time location and route visualization                      |
-| 🏥 **Hospital Intelligence**      | Emergency hospital coordination                                 |
-| 🩸 **Smart Blood Matching**       | ABO/Rh compatibility-based donor matching                       |
-| 🐍 **Snakebite Assistance**       | Snakebite guidance and antivenom availability support           |
-| 👥 **Emergency Network**          | Coordination between citizens, hospitals, donors and responders |
+Description
+
+🛡️ AI Pre-Crash Safety Radar
+
+Sensor-fusion based hazard detection
+
+🚨 Emergency SOS
+
+Rapid emergency alert and response workflow
+
+🗺️ Live Ambulance Tracking
+
+Real-time location and route visualization
+
+🏥 Hospital Intelligence
+
+Emergency hospital coordination
+
+🩸 Smart Blood Matching
+
+ABO/Rh compatibility-based donor matching
+
+🐍 Snakebite Assistance
+
+Snakebite guidance and antivenom availability support
+
+👥 Emergency Network
+
+Coordination between citizens, hospitals, donors and responders
 
 <br/>
 
@@ -244,9 +394,7 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 </div>
 
----
-
-# 📊 Project Showcase
+📊 Project Showcase
 
 <div align="center">
 
@@ -262,9 +410,7 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 </div>
 
----
-
-# 🏆 Achievements
+🏆 Achievements
 
 <div align="center">
 
@@ -278,9 +424,7 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 </div>
 
----
-
-# 🧩 Problem Solving
+🧩 Problem Solving
 
 <div align="center">
 
@@ -294,35 +438,31 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 <br/><br/>
 
-**⚔️ Learning DSA one problem at a time.**
+⚔️ Learning DSA one problem at a time.
 
-`Arrays` · `Strings` · `Binary Search` · `Trees` · `Graphs` · `Dynamic Programming`
+Arrays · Strings · Binary Search · Trees · Graphs · Dynamic Programming
 
 </div>
 
----
-
-# 📜 Certifications
+📜 Certifications
 
 <div align="center">
 
-![Explore ML](https://img.shields.io/badge/Infosys_Springboard-Explore_ML_with_Python-1B2A41?style=for-the-badge)
 
-![Prompt Engineering](https://img.shields.io/badge/Infosys_Springboard-Prompt_Engineering-1B2A41?style=for-the-badge)
 
-![Deep Learning](https://img.shields.io/badge/Infosys_Springboard-Intro_to_Deep_Learning-1B2A41?style=for-the-badge)
 
-![NLP](https://img.shields.io/badge/Infosys_Springboard-Intro_to_NLP-1B2A41?style=for-the-badge)
 
-![Software Engineering](https://img.shields.io/badge/Infosys_Springboard-Software_Engineering-1B2A41?style=for-the-badge)
 
-![IP Awareness](https://img.shields.io/badge/NIPAM_IP_Office-IP_Awareness_Training-1B2A41?style=for-the-badge)
+
+
+
+
+
+
 
 </div>
 
----
-
-# 📈 GitHub Activity
+📈 GitHub Activity
 
 <div align="center">
 
@@ -338,9 +478,7 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 </div>
 
----
-
-# 🐍 Contribution Activity
+🐍 Contribution Activity
 
 <div align="center">
 
@@ -348,9 +486,7 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 </div>
 
----
-
-# 🌐 Let's Connect
+🌐 Let's Connect
 
 <div align="center">
 
@@ -372,16 +508,21 @@ RESQONE AI focuses on emergency response during the critical **Golden Hour**, co
 
 <br/><br/>
 
-### 💬 Open to learning, building, collaborating and creating useful technology.
+💬 Open to learning, building, collaborating and creating useful technology.
 
 </div>
 
----
-
 <div align="center">
+
+<p>
+  <a href="https://github.com/srinivaspalnati22-png">GitHub</a> •
+  <a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413">LinkedIn</a> •
+  <a href="https://leetcode.com/u/srinivaspalnati22-png/">LeetCode</a> •
+  <a href="https://www.hackerrank.com/profile/srinivaspalnati1">HackerRank</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0066FF,100:24005C&height=140&section=footer"/>
 
-### `BUILD → BREAK → LEARN → SHIP → REPEAT`
+BUILD → BREAK → LEARN → SHIP → REPEAT
 
 </div>
