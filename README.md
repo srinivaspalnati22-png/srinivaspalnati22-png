@@ -1,25 +1,47 @@
 <div align="center">
 
-<!-- Static fallback — always renders in color even if the animated banner below is slow/down -->
-<img src="https://img.shields.io/badge/%3C%2F%3E_PALNATI_SRINIVAS-0066FF?style=for-the-badge&labelColor=05001A"/>
+<!-- ==================== HERO ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=280&section=header&text=PALNATI%20SRINIVAS&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=52&descSize=18&descColor=E8F7FF"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/~_engineering_things_that_matter_when_it_counts_~-00C9FF?style=flat-square&labelColor=05001A"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+I+build+software+that+solves+real+problems;AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products"/>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">🎓<br/><sub><b>CSE</b><br/>NRI University</sub></td>
+<td align="center">📍<br/><sub><b>Location</b><br/>Andhra Pradesh, India</sub></td>
+<td align="center">🤖<br/><sub><b>Focus</b><br/>AI / ML</sub></td>
+<td align="center">🧩<br/><sub><b>Craft</b><br/>Java + DSA</sub></td>
+<td align="center">🚀<br/><sub><b>Building</b><br/>Real-world products</sub></td>
+</tr>
+</table>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/srinivaspalnati22-png/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srinivaspalnati1)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=00E5FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=250&section=header&text=PALNATI%20SRINIVAS&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20AI%20systems%20for%20emergencies%2C%20security%20%26%20civic%20impact&descAlignY=58&descSize=16&descColor=E8F7FF"/>
+<img src="https://img.shields.io/badge/-●-05001A?style=flat-square"/><img src="https://img.shields.io/badge/-●-24005C?style=flat-square"/><img src="https://img.shields.io/badge/-●-0066FF?style=flat-square"/><img src="https://img.shields.io/badge/-●-00E5FF?style=flat-square"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Turning+hackathon+ideas+into+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
-
-**P. Srinivas** · Computer Science Engineering, NRI University · Andhra Pradesh, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/srinivaspalnati22-png/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srinivaspalnati1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=00E5FF&style=flat-square&label=Views)
+<p align="center">
+  <a href="#about-me"><b>About</b></a> &nbsp;·&nbsp;
+  <a href="#what-im-building"><b>Projects</b></a> &nbsp;·&nbsp;
+  <a href="#technology-universe"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+  <a href="#achievements"><b>Achievements</b></a> &nbsp;·&nbsp;
+  <a href="#lets-connect"><b>Connect</b></a>
+</p>
 
 </div>
 
