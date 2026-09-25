@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Static fallback — always renders even if the banner services below are slow/down -->
-<h1>
-  <samp>&lt;/&gt;</samp> &nbsp;<b>PALNATI SRINIVAS</b>
-</h1>
-<samp>~ engineering things that matter when it counts ~</samp>
+<!-- Static fallback — always renders in color even if the animated banner below is slow/down -->
+<img src="https://img.shields.io/badge/%3C%2F%3E_PALNATI_SRINIVAS-0066FF?style=for-the-badge&labelColor=05001A"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/~_engineering_things_that_matter_when_it_counts_~-00C9FF?style=flat-square&labelColor=05001A"/>
 
 <br/><br/>
 
