@@ -1,5 +1,13 @@
 <div align="center">
 
+<!-- Static fallback — always renders even if the banner services below are slow/down -->
+<h1>
+  <samp>&lt;/&gt;</samp> &nbsp;<b>PALNATI SRINIVAS</b>
+</h1>
+<samp>~ engineering things that matter when it counts ~</samp>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=250&section=header&text=PALNATI%20SRINIVAS&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20AI%20systems%20for%20emergencies%2C%20security%20%26%20civic%20impact&descAlignY=58&descSize=16&descColor=E8F7FF"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Turning+hackathon+ideas+into+deployed+products;Java+%2B+DSA+%7C+Python+%2B+AI%2FML+%7C+Full-Stack"/>
