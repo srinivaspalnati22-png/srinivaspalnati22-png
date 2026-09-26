@@ -28,7 +28,7 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
 
 <br/>
-
+ 
 <img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=00E5FF&style=for-the-badge&label=PROFILE+VISITORS"/>
 
 <br/><br/>
