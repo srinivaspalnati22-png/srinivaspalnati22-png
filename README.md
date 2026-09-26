@@ -3,7 +3,7 @@
 <!-- ==================== HERO ==================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,35:24005C,70:0066FF,100:00E5FF&height=280&section=header&text=PALNATI%20SRINIVAS&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Developer&descAlignY=52&descSize=18&descColor=E8F7FF"/>
-
+ 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%E2%9A%A1+I+build+software+that+solves+real+problems;AI+systems+for+emergencies%2C+security+%26+civic+impact;Turning+hackathon+ideas+into+real+deployed+products"/>
