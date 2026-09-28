@@ -38,7 +38,7 @@
 <p align="center">
   <a href="#about-me"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#what-im-building"><b>Projects</b></a> &nbsp;·&nbsp;
-  <a href="#technology-universe"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+  <a href="#technology-universe"><b>Tech Stack</b></a> &nbsp;·&nbsp; 
   <a href="#achievements"><b>Achievements</b></a> &nbsp;·&nbsp;
   <a href="#lets-connect"><b>Connect</b></a>
 </p>
