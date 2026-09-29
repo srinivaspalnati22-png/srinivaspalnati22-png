@@ -12,7 +12,7 @@
     
 <table>
 <tr>
-<td align="center">🎓<br/><sub><b>CSE</b><br/>NRI University</sub></td>
+<td align="center">🎓<br/><sub><b>CSE</b><br/>NRI University</sub></td> 
 <td align="center">📍<br/><sub><b>Location</b><br/>Andhra Pradesh, India</sub></td>
 <td align="center">🤖<br/><sub><b>Focus</b><br/>AI / ML</sub></td>
 <td align="center">🧩<br/><sub><b>Craft</b><br/>Java + DSA</sub></td>
