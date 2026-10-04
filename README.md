@@ -56,7 +56,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 - 🩸 Smart Blood Donor Matching
 - 🐍 Snakebite Assistance
 - 👥 Emergency Volunteer Network
-
+ 
 ### Tech Stack
 
 `React` • `Three.js` • `FastAPI` • `Supabase` • `Python`
