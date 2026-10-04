@@ -61,7 +61,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 
 `React` • `Three.js` • `FastAPI` • `Supabase` • `Python`
 
-<div align="center">
+<div align="center"> 
 
 [![Live Demo](https://img.shields.io/badge/🚑_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://resqone-ai-app.vercel.app)
 
