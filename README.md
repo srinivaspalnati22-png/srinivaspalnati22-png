@@ -73,7 +73,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 
 ## 💡 Other Projects
 
-| Project | Description |
+| Project | Description | 
 |----------|-------------|
 | 🧬 Pulsevein | Multimodal Deepfake Detection |
 | 🛡️ TrustShield AI | Scam & Phishing Detection |
