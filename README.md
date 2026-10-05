@@ -38,7 +38,7 @@ My interests include:
 - 🛡️ Digital Trust & Security
 - 🌍 Civic Technology
 
----
+--- 
  
 ## 🌟 Featured Project
 
