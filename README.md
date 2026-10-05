@@ -141,7 +141,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 
 </div>
  
----
+--- 
  
 ## 🤝 Let's Connect
 
