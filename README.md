@@ -139,7 +139,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true"/>
 
-</div>
+</div> 
  
 --- 
  
