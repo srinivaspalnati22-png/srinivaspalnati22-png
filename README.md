@@ -31,7 +31,7 @@ I'm a **Computer Science Engineering student** passionate about building technol
 
 My interests include:
 
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence & Machine Learning  
 - 💻 Full-Stack Development
 - 🧩 Data Structures & Algorithms
 - 🚑 Emergency & Safety Technology
