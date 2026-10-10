@@ -39,7 +39,7 @@ My interests include:
 - 🌍 Civic Technology
 
 --- 
- 
+  
 ## 🌟 Featured Project
 
 ### 🚑 RESQONE AI
