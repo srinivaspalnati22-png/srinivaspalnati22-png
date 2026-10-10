@@ -25,7 +25,7 @@
 
 --- 
 
-## 🚀 About Me....
+## 🚀 About Me..=>..
 
 I'm a **Computer Science Engineering student** passionate about building technology that solves real-world problems.
 
