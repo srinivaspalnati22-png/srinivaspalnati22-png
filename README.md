@@ -7,7 +7,7 @@
 # PALNATI PUSHPA NAGA VENKATA SRINIVAS
  
 ### Computer Science Engineer • AI/ML • Full-Stack Developer
- 
+  
 **Building AI-powered software for real-world problems.**
 
 <br/>
