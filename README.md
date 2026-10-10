@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,40:24005C,75:0066FF,100:00E5FF&height=280&section=header&text=PALNATI%20SRINIVAS&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=17&descColor=E8F7FF"/>
 
 # PALNATI PUSHPA NAGA VENKATA SRINIVAS
-
+ 
 ### Computer Science Engineer • AI/ML • Full-Stack Developer
  
 **Building AI-powered software for real-world problems.**
