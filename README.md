@@ -57,7 +57,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 - 🐍 Snakebite Assistance
 - 👥 Emergency Volunteer Network
 - | Project | Description | 
-|----------|-------------|
+|----------|-------------| 
 | 🧬 Pulsevein | Multimodal Deepfake Detection |
 | 🛡️ TrustShield AI | Scam & Phishing Detection | 
 | 🏙️ SmartCivic AI | Civic Issue Reporting |
