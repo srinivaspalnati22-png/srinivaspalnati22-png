@@ -51,7 +51,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 ### Key Features
 
 - 🚨 Accident Detection 
-- 🏥 Hospital Coordination
+- 🏥 Hospital Coordination 
 - 🗺️ Live Ambulance Tracking 
 - 🩸 Smart Blood Donor Matching
 - 🐍 Snakebite Assistance
