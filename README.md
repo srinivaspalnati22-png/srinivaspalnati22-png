@@ -134,6 +134,7 @@ RESQONE AI combines AI, location intelligence, and emergency coordination into o
 - 🚀 Built 7+ AI Platforms
 - 📜 Earned Multiple Certifications
 -  good communication skills
+-  best understanding
   
 ---
 
