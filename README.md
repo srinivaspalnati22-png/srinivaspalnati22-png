@@ -1,153 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:242424&height=280&section=header&text=Ideas.%20Engineered.&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=PALNATI%20SRINIVAS%20%E2%80%94%20AI%20%26%20SOFTWARE&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00FF88&height=200&section=header&text=SRINIVAS.exe&fontSize=48&fontColor=00FF88&animation=fadeIn" width="100%"/>
 
-# Technology should solve real problems.
+### `> COMPUTER SCIENCE ENGINEER`
 
-I build AI-powered applications and software experiences designed around practical challenges.
+### `> AI / ML DEVELOPER`
 
-[Explore My Work](https://github.com/srinivaspalnati22-png) · [Connect on LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
+### `> SOFTWARE BUILDER`
 
-</div>
+`[ SYSTEM ONLINE ]` · `[ BUILDING AI ]` · `[ LEARNING CONTINUOUSLY ]`
 
----
-
-## Featured Experience
-
-# RESQONE AI
-
-### When every second matters, technology should help.
-
-RESQONE AI is an emergency assistance project focused on connecting people with useful emergency resources and support.
-
-**Designed around**
-
-* Emergency assistance
-* Accident-related support
-* Hospital coordination
-* Ambulance tracking
-* Blood donor matching
-* Snakebite assistance
-* Volunteer networking
-
-<div align="center">
-
-[![Explore RESQONE AI](https://img.shields.io/badge/EXPLORE_RESQONE_AI-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://resqone-ai-app.vercel.app)
-
-[View Source Code](https://github.com/srinivaspalnati22-png/RESQONE-AI)
+[GitHub](https://github.com/srinivaspalnati22-png) | [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) | [LeetCode](https://leetcode.com/u/srinivaspalnati22-png/)
 
 </div>
 
-**Technology:** React · Three.js · FastAPI · Supabase · Python
+## `$ whoami`
 
----
+```bash
+$ whoami
+Palnati Pushpa Naga Venkata Srinivas
 
-## The Project Collection
+$ specialization
+Artificial Intelligence / Machine Learning
+Full-Stack Development
+Software Engineering
 
-<table>
-<tr>
-<td width="50%" valign="top">
+$ current_mission
+Build intelligent systems that solve real-world problems.
+```
 
-### Pulsevein
+## `$ ls ./projects`
 
-**Understand what is real.**
+| Project        | Description                   | Status       |
+| -------------- | ----------------------------- | ------------ |
+| RESQONE AI     | Emergency assistance platform | `FEATURED`   |
+| Pulsevein      | Multimodal deepfake detection | `AI/ML`      |
+| TrustShield AI | Scam and phishing detection   | `SECURITY`   |
+| CareerSafe     | Job scam detection            | `SAFETY`     |
+| SmartCivic AI  | Civic issue reporting         | `CIVIC TECH` |
+| TruthLens AI   | Fake news detection           | `AI/ML`      |
+| NexusAI        | Retail forecasting            | `ANALYTICS`  |
 
-A multimodal AI project exploring deepfake detection and digital media authenticity.
+### `./RESQONE-AI`
 
-</td>
-<td width="50%" valign="top">
+```text
+PROJECT   : RESQONE AI
+PURPOSE   : Emergency assistance
+FRONTEND  : React / Three.js
+BACKEND   : FastAPI / Python
+DATABASE  : Supabase
 
-### TrustShield AI
-
-**Make digital experiences safer.**
-
-An AI-oriented project for identifying scam and phishing threats.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### CareerSafe
-
-**Protect career opportunities.**
-
-A job scam detection application built with Python, Flask, HTML, CSS, and JavaScript.
-
-</td>
-<td width="50%" valign="top">
-
-### SmartCivic AI
-
-**Connect citizens with solutions.**
-
-A technology-focused civic issue reporting project.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### TruthLens AI
-
-**Look beyond the headline.**
-
-An AI-assisted approach to fake news detection.
-
-</td>
-<td width="50%" valign="top">
-
-### NexusAI
-
-**Turn retail data into insight.**
-
-A project exploring retail forecasting and predictive analytics.
-
-</td>
-</tr>
-</table>
-
----
-
-## My Toolkit
-
-**Build:** Python · Java · JavaScript · TypeScript · React · Next.js
-
-**Design:** HTML · CSS · Tailwind CSS · Three.js · Vite
-
-**Engineer:** FastAPI · Flask · Node.js · Git · GitHub
-
-**Intelligence:** TensorFlow · PyTorch · OpenCV · scikit-learn
-
-**Data:** Supabase · Firebase · MySQL
-
----
-
-## Beyond the Code
-
-* 🥇 First prize at a 5-hour hackathon
-* 🚀 Participation in 5+ hackathons
-* 🧠 Multiple AI and software projects
-* 📜 Multiple technical certifications
-
----
-
-## Developer Snapshot
+FEATURES
+  [+] Emergency support
+  [+] Hospital coordination
+  [+] Ambulance tracking
+  [+] Blood donor matching
+  [+] Snakebite assistance
+  [+] Volunteer network
+```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivas palnati22-png&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics"/>
+[![Live Application](https://img.shields.io/badge/%24_launch--application-00FF88?style=for-the-badge\&logo=vercel\&logoColor=black)](https://resqone-ai-app.vercel.app)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=transparent&hide_border=true" alt="Language statistics"/>
+[Source Repository](https://github.com/srinivaspalnati22-png/RESQONE-AI)
 
 </div>
 
----
+## `$ cat ./tech-stack.txt`
+
+```text
+LANGUAGES     Python | Java | JavaScript | TypeScript
+FRONTEND      React | Next.js | Vite | Tailwind | Three.js
+BACKEND       FastAPI | Flask | Node.js
+AI_ML         TensorFlow | PyTorch | OpenCV | scikit-learn
+DATABASES     MySQL | Firebase | Supabase
+TOOLS         Git | GitHub | VS Code | Postman | Vercel
+```
+
+## `$ ./achievements --all`
+
+```text
+[+] FIRST PRIZE       : 5-hour hackathon
+[+] HACKATHONS        : Participated in 5+
+[+] PROJECTS          : Multiple AI and software applications
+[+] CERTIFICATIONS    : Multiple technical certifications
+[+] MODE              : ALWAYS_LEARNING
+```
+
+## `$ github --stats`
 
 <div align="center">
 
-### Made with curiosity. Built with purpose.
+<img src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=chartreuse-dark&hide_border=true" width="49%" alt="GitHub stats"/>
 
-[GitHub](https://github.com/srinivaspalnati22-png) · [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) · [LeetCode](https://leetcode.com/u/srinivaspalnati22-png/) · [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) · [Email](mailto:srinivaspalnati22@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=chartreuse-dark&hide_border=true" width="49%" alt="Top languages"/>
+
+</div>
+
+## `$ connect --open`
+
+```text
+EMAIL      : srinivaspalnati22@gmail.com
+LINKEDIN   : palnati-pushpa-naga-venkata-srinivas
+LEETCODE   : srinivaspalnati22-png
+HACKERRANK : srinivaspalnati1
+```
+
+<div align="center">
+
+[Email](mailto:srinivaspalnati22@gmail.com) · [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) · [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1)
+
+`Process completed. Next objective: build something meaningful.`
 
 </div>
