@@ -1,118 +1,153 @@
 <div align="center">
 
-# PALNATI SRINIVAS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:242424&height=280&section=header&text=Ideas.%20Engineered.&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=43&desc=PALNATI%20SRINIVAS%20%E2%80%94%20AI%20%26%20SOFTWARE&descAlignY=65&descSize=16" width="100%"/>
 
-### Computer Science Engineer · AI/ML · Software Development
+# Technology should solve real problems.
 
-*Building intelligent software for meaningful real-world impact.*
+I build AI-powered applications and software experiences designed around practical challenges.
 
-[GitHub](https://github.com/srinivaspalnati22-png) / [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) / [LeetCode](https://leetcode.com/u/srinivaspalnati22-png/) / [Email](mailto:srinivaspalnati22@gmail.com)
-
-</div>
-
----
-
-## About
-
-I'm a computer science engineer interested in artificial intelligence, machine learning, and full-stack development. I enjoy turning ideas into practical software products, exploring emerging technologies, and building systems that address real problems.
-
-**What I work on**
-
-* AI and machine learning applications
-* Full-stack web development
-* Intelligent detection and prediction systems
-* Software engineering and problem-solving
-
----
-
-## Selected Work
-
-### 01 — RESQONE AI
-
-**Emergency assistance platform**
-
-An emergency-support project focused on connecting people to assistance through accident-related support, hospital coordination, ambulance tracking, blood donor matching, snakebite assistance, and volunteer connections.
-
-**Stack:** React · Three.js · FastAPI · Supabase · Python
-
-[Live Demo ↗](https://resqone-ai-app.vercel.app) · [Repository ↗](https://github.com/srinivaspalnati22-png/RESQONE-AI)
-
-### 02 — Pulsevein
-
-**Multimodal deepfake detection**
-
-Exploring methods to identify manipulated digital media using AI.
-
-### 03 — TrustShield AI
-
-**Digital safety intelligence**
-
-A project focused on scam and phishing detection.
-
-### 04 — CareerSafe
-
-**Career protection**
-
-A job scam detection and career safety application built with Python, Flask, HTML, CSS, and JavaScript.
-
-### 05 — SmartCivic AI
-
-**Civic technology**
-
-An AI-oriented concept for reporting and addressing civic issues.
-
-### 06 — TruthLens AI
-
-**Information integrity**
-
-An AI-assisted fake news detection project.
-
-### 07 — NexusAI
-
-**Predictive analytics**
-
-A retail forecasting project exploring data-driven business decisions.
-
----
-
-## Technical Skills
-
-| Area        | Tools and Technologies                          |
-| ----------- | ----------------------------------------------- |
-| Programming | Python, Java, JavaScript, TypeScript            |
-| Web         | HTML, CSS, React, Next.js, Vite, Tailwind CSS   |
-| Backend     | FastAPI, Flask, Node.js                         |
-| AI / ML     | TensorFlow, PyTorch, OpenCV, scikit-learn       |
-| Data        | MySQL, Supabase, Firebase                       |
-| Tools       | Git, GitHub, VS Code, Postman, Vercel, Three.js |
-
----
-
-## Milestones
-
-* 🥇 First prize in a 5-hour hackathon
-* Participated in 5+ hackathons
-* Developed multiple AI and software projects
-* Completed multiple technical certifications
-
----
-
-## GitHub Overview
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
+[Explore My Work](https://github.com/srinivaspalnati22-png) · [Connect on LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
 
 </div>
 
 ---
 
+## Featured Experience
+
+# RESQONE AI
+
+### When every second matters, technology should help.
+
+RESQONE AI is an emergency assistance project focused on connecting people with useful emergency resources and support.
+
+**Designed around**
+
+* Emergency assistance
+* Accident-related support
+* Hospital coordination
+* Ambulance tracking
+* Blood donor matching
+* Snakebite assistance
+* Volunteer networking
+
 <div align="center">
 
-**Think clearly. Build intelligently. Keep improving.**
+[![Explore RESQONE AI](https://img.shields.io/badge/EXPLORE_RESQONE_AI-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://resqone-ai-app.vercel.app)
 
-[LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) · [LeetCode](https://leetcode.com/u/srinivaspalnati22-png/) · [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) · [Email](mailto:srinivaspalnati22@gmail.com)
+[View Source Code](https://github.com/srinivaspalnati22-png/RESQONE-AI)
+
+</div>
+
+**Technology:** React · Three.js · FastAPI · Supabase · Python
+
+---
+
+## The Project Collection
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Pulsevein
+
+**Understand what is real.**
+
+A multimodal AI project exploring deepfake detection and digital media authenticity.
+
+</td>
+<td width="50%" valign="top">
+
+### TrustShield AI
+
+**Make digital experiences safer.**
+
+An AI-oriented project for identifying scam and phishing threats.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CareerSafe
+
+**Protect career opportunities.**
+
+A job scam detection application built with Python, Flask, HTML, CSS, and JavaScript.
+
+</td>
+<td width="50%" valign="top">
+
+### SmartCivic AI
+
+**Connect citizens with solutions.**
+
+A technology-focused civic issue reporting project.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### TruthLens AI
+
+**Look beyond the headline.**
+
+An AI-assisted approach to fake news detection.
+
+</td>
+<td width="50%" valign="top">
+
+### NexusAI
+
+**Turn retail data into insight.**
+
+A project exploring retail forecasting and predictive analytics.
+
+</td>
+</tr>
+</table>
+
+---
+
+## My Toolkit
+
+**Build:** Python · Java · JavaScript · TypeScript · React · Next.js
+
+**Design:** HTML · CSS · Tailwind CSS · Three.js · Vite
+
+**Engineer:** FastAPI · Flask · Node.js · Git · GitHub
+
+**Intelligence:** TensorFlow · PyTorch · OpenCV · scikit-learn
+
+**Data:** Supabase · Firebase · MySQL
+
+---
+
+## Beyond the Code
+
+* 🥇 First prize at a 5-hour hackathon
+* 🚀 Participation in 5+ hackathons
+* 🧠 Multiple AI and software projects
+* 📜 Multiple technical certifications
+
+---
+
+## Developer Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivas palnati22-png&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=transparent&hide_border=true" alt="Language statistics"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Made with curiosity. Built with purpose.
+
+[GitHub](https://github.com/srinivaspalnati22-png) · [LinkedIn](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413) · [LeetCode](https://leetcode.com/u/srinivaspalnati22-png/) · [HackerRank](https://www.hackerrank.com/profile/srinivaspalnati1) · [Email](mailto:srinivaspalnati22@gmail.com)
 
 </div>
