@@ -1,315 +1,149 @@
-Act as a world-class developer portfolio designer, GitHub profile specialist, UI/UX engineer, and creative frontend designer.
+<div align="center">
 
-Redesign my GitHub profile README from scratch to make it look like the profile of a highly skilled, modern software developer and AI engineer.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B73,100:00E5FF&height=200&section=header&text=PALNATI%20SRINIVAS&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20%7C%20FULL%20STACK&descSize=15&descAlignY=58&descColor=00E5FF"/>
 
-Do not create a generic GitHub README full of badges, emojis, and statistics. Create a distinctive, premium, minimal, futuristic developer identity that immediately captures the attention of software engineers, recruiters, and hackathon judges.
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/srinivaspalnati22-png/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/srinivaspalnati1"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a> <a href="mailto:srinivaspalnati22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 1. MY DEVELOPER IDENTITY
+<br/><br/>
 
-Name: Palnati Pushpa Naga Venkata Srinivas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;AI%2FML+%7C+Full-Stack+Development;Turning+Ideas+Into+Working+Software;Learn.+Build.+Test.+Deploy." alt="Animated developer introduction"/>
 
-Professional headline:
-Software Developer | AI/ML Engineer | Full-Stack Developer
+<br/>
 
-Personal tagline:
-"Engineering ideas into intelligent software."
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
 
-GitHub username:
-srinivaspalnati22-png
+</div>
 
-LinkedIn:
-https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413
+---
 
-LeetCode:
-https://leetcode.com/u/srinivaspalnati22-png/
+## `01 / ABOUT ME`
 
-HackerRank:
-https://www.hackerrank.com/profile/srinivaspalnati1
+I'm a Computer Science Engineering student focused on software development, artificial intelligence, and building practical applications.
 
-Email:
-[srinivaspalnati22@gmail.com](mailto:srinivaspalnati22@gmail.com)
+* 💻 Developing full-stack web applications.
+* 🤖 Exploring AI, machine learning, and computer vision.
+* 🧠 Practicing data structures and algorithms.
+* 🚀 Building technology to solve real-world problems.
+* 🤝 Open to collaboration, hackathons, and learning opportunities.
 
-## 2. DESIGN DIRECTION
+**Current focus:** Software Engineering · AI/ML · Full-Stack Development
 
-Create a premium, futuristic developer aesthetic inspired by modern engineering portfolios, developer tools, and high-quality open-source project pages.
+---
 
-Color palette:
+## `02 / TECH STACK`
 
-* Background: #0D1117
-* Secondary background: #111827
-* Electric blue: #3B82F6
-* Cyan: #00E5FF
-* Main text: #F0F6FC
-* Secondary text: #8B949E
-* Borders: #30363D
-* Subtle green: #3FB950
+<div align="center">
 
-Visual characteristics:
+### Programming Languages
 
-* Clean and spacious layout.
-* Strong typography and visual hierarchy.
-* Restrained use of emojis.
-* Terminal-inspired section headings.
-* Consistent blue/cyan visual identity.
-* Subtle futuristic details.
-* Professional project presentation.
-* No clutter, excessive badges, or giant statistics.
-* No fake achievements or fabricated metrics.
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Programming language icons"/>
 
-The design should feel like a carefully crafted software engineer's personal brand.
+### Frontend Development
 
-## 3. HERO SECTION
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark" alt="Frontend technology icons"/>
 
-Create a visually striking opening section using an animated SVG banner.
+### Backend & Databases
 
-Include:
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,firebase,supabase,mysql&theme=dark" alt="Backend and database icons"/>
 
-* My full name or preferred professional name, Palnati Srinivas.
-* A clear developer headline.
-* A concise engineering tagline.
-* LinkedIn, GitHub, LeetCode, HackerRank, and email links.
-* A small profile-view counter.
+### AI / Machine Learning
 
-Create an original-looking animated visual concept featuring:
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and machine learning icons"/>
 
-* A dark technical background.
-* Thin cyan and blue circuit lines.
-* Subtle glowing particles.
-* Minimal geometric elements.
-* A clean developer-terminal motif.
-* Smooth, restrained motion.
-* Strong readability.
+### Development Tools
 
-Use an existing reliable animated SVG service or create a standalone SVG file that can be hosted in my GitHub repository.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Development tools icons"/>
 
-Avoid excessively large banners that push all technical content below the fold.
+</div>
 
-The first screen should immediately communicate:
-"This developer builds real software."
+---
 
-## 4. ANIMATED DEVELOPER INTRODUCTION
+## `03 / FEATURED PROJECT`
 
-Create a short, professional introduction with a terminal-inspired design.
+<div align="center">
 
-Example visual concept:
+<a href="https://resqone-ai-app.vercel.app">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=header&text=RESQONE%20AI&fontSize=30&fontColor=00E5FF" width="100%" alt="RESQONE AI project banner"/>
+</a>
 
-$ whoami
-Software Developer
+### Emergency Intelligence & Coordination Platform
 
-$ focus
-AI/ML | Full-Stack | Software Engineering
+An AI-powered emergency response platform designed to support emergency assistance and coordination.
 
-$ mission
-Building intelligent solutions for real-world problems.
+</div>
 
-Use clean Markdown and GitHub-compatible HTML.
+**Key features**
 
-Do not use JavaScript, custom CSS, unsupported iframe embeds, or scripts.
+* 🚨 Accident detection and emergency assistance.
+* 🏥 Hospital coordination.
+* 🗺️ Ambulance tracking.
+* 🩸 Smart blood donor matching.
+* 🐍 Snakebite assistance.
+* 👥 Emergency volunteer network.
 
-If a typing animation is used, use a reputable SVG typing service with a static-text fallback. Keep the animation subtle and avoid distracting flashing effects.
+**Technologies:** React · Three.js · FastAPI · Supabase · Python
 
-## 5. TECHNICAL SKILLS
+<div align="center">
 
-Display technical skills in compact, organized categories.
+<a href="https://resqone-ai-app.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_LIVE_DEMO-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore live demo"/></a> <a href="https://github.com/srinivaspalnati22-png/RESQONE-AI"><img src="https://img.shields.io/badge/VIEW_SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="View source code"/></a>
 
-Programming:
-Python, Java, JavaScript, TypeScript, HTML, CSS.
+</div>
 
-Frontend:
-React, Next.js, Vite, Tailwind CSS, Three.js, Flutter.
+---
 
-Backend:
-FastAPI, Flask, Node.js.
+## `04 / OTHER PROJECTS`
 
-Databases:
-Supabase, Firebase, MySQL.
+| Project           | Focus                         |
+| :---------------- | :---------------------------- |
+| 🛡️ CareerSafe    | Job scam detection            |
+| 🧬 Pulsevein      | Multimodal deepfake detection |
+| 🔐 TrustShield AI | Scam and phishing detection   |
+| 🏙️ SmartCivic AI | Civic issue reporting         |
+| 📰 TruthLens AI   | Fake news detection           |
+| 📊 NexusAI        | Retail forecasting            |
 
-AI/ML:
-TensorFlow, PyTorch, OpenCV, scikit-learn.
+---
 
-Tools:
-Git, GitHub, VS Code, Postman, Vercel.
+## `05 / GITHUB ANALYTICS`
 
-Use skill icons where they improve readability.
+<div align="center">
 
-Important:
-Do not imply expert-level proficiency in every technology. Keep the design honest and professional.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" alt="GitHub statistics"/>
 
-## 6. FEATURED PROJECTS — PREMIUM PROJECT CARDS
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
 
-Present my projects using clean HTML tables or GitHub-compatible card layouts.
+<br/><br/>
 
-Each project should contain:
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Most-used programming languages"/>
 
-* Project name.
-* A one-sentence description.
-* A small set of relevant technologies.
-* Repository link.
-* Live demo link when available.
-* A consistent visual hierarchy.
+</div>
 
-Projects:
+---
 
-1. RESQONE AI
-   Emergency intelligence and coordination platform.
-   Technologies: React, Three.js, FastAPI, Supabase, Python.
-   Live demo: https://resqone-ai-app.vercel.app
-   Repository: https://github.com/srinivaspalnati22-png/RESQONE-AI
+## `06 / ACHIEVEMENTS`
 
-2. CareerSafe
-   Job scam detection and career safety platform.
-   Technologies: Python, Flask, HTML, CSS, JavaScript.
+* 🥇 First Prize — 5-hour hackathon.
+* 🏆 Participation in 5+ hackathons.
+* 🚀 Built multiple AI and software projects.
+* 📜 Earned multiple technical certifications.
 
-3. Pulsevein
-   Multimodal deepfake detection project.
+---
 
-4. TrustShield AI
-   Scam and phishing detection project.
+## `07 / HOW I ENGINEER`
 
-5. SmartCivic AI
-   AI-assisted civic issue reporting concept.
+<div align="center">
 
-6. TruthLens AI
-   Fake news detection project.
+| STEP | PRINCIPLE              |
+| :--: | :--------------------- |
+| `01` | Understand the problem |
+| `02` | Design the solution    |
+| `03` | Build and test         |
+| `04` | Ship and improve       |
 
-7. NexusAI
-   Retail forecasting project.
+<br/>
 
-Do not invent repository URLs or live demos for projects that do not have verified links.
+### BUILD WITH PURPOSE. SHIP WITH CONFIDENCE.
 
-Make RESQONE AI the primary featured project, with a larger visual area than the other projects.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0969DA,100:0D1117&height=120&section=footer" alt="Blue and cyan animated footer"/>
 
-For other projects, use a compact two-column layout if it renders reliably on GitHub.
-
-Do not reuse the same image for every project. Only use actual project screenshots or relevant original illustrations when available.
-
-## 7. SCROLLING EXPERIENCE AND ANIMATION
-
-Important platform constraint:
-GitHub profile README files are static documents. They cannot execute custom JavaScript, attach scroll listeners, implement a custom parallax engine, or reliably control animation according to scrolling.
-
-Instead, create the best GitHub-compatible visual experience using:
-
-* A restrained animated SVG hero.
-* A clean section-by-section vertical layout.
-* Small animated section dividers.
-* Subtle animated SVG accents.
-* Consistent spacing and clear visual transitions.
-* Static project thumbnails with descriptive alt text.
-* Animated GIFs only when they add meaningful value.
-* Minimal animated elements to avoid visual overload.
-
-The README must remain attractive even when animations do not load.
-
-Do not add fake scrolling controls, fake interactive buttons, or unsupported animation code.
-
-If I want actual scroll-triggered effects, prepare an optional second design for a separate portfolio website. That version may use React, Framer Motion, CSS animations, and scroll-triggered transitions.
-
-Keep the GitHub README itself fully compatible with GitHub rendering.
-
-## 8. GITHUB STATISTICS
-
-Create a compact statistics section featuring:
-
-* GitHub contribution statistics.
-* Contribution streak.
-* Most-used languages.
-
-Use a consistent dark theme with blue and cyan accents.
-
-Use my actual GitHub username.
-
-Do not invent statistics or manually claim coding activity that has not been verified.
-
-Avoid oversized cards. On mobile, the design should remain readable even if the statistics images stack vertically.
-
-If a third-party statistics service fails, the README must still look professional.
-
-## 9. ACHIEVEMENTS
-
-Include only these stated achievements:
-
-* First Prize in a 5-hour hackathon.
-* Participation in 5+ hackathons.
-* Multiple technical certifications.
-* Development of multiple AI and software projects.
-
-Do not invent rankings, certification names, employment experience, project users, stars, downloads, or performance metrics.
-
-## 10. UNIQUE SIGNATURE ELEMENT
-
-Add a distinctive section titled:
-
-"HOW I ENGINEER"
-
-Present four concise principles:
-
-01 — Understand the problem.
-02 — Design the solution.
-03 — Build and test.
-04 — Ship and improve.
-
-Use a restrained terminal-inspired layout.
-
-Finish with this tagline:
-
-BUILD WITH PURPOSE. SHIP WITH CONFIDENCE.
-
-## 11. TECHNICAL IMPLEMENTATION REQUIREMENTS
-
-Generate the final README.md in complete, ready-to-paste Markdown.
-
-Requirements:
-
-* GitHub-compatible Markdown and supported HTML only.
-* No custom CSS or JavaScript in the README.
-* No iframe embeds.
-* No fake buttons or unsupported hover effects.
-* Valid HTML nesting.
-* Correct Markdown table syntax.
-* Descriptive alt text for images.
-* Functional profile links.
-* No broken or fabricated project URLs.
-* Mobile-friendly section structure.
-* No repeated project descriptions.
-* Avoid unnecessary animated assets.
-* Use animation sparingly.
-* Preserve all verified information from my existing README.
-
-If you create additional assets, provide the complete source files and explain how to upload and reference them from the repository.
-
-Use a consistent visual identity throughout the README.
-
-## 12. OPTIONAL PORTFOLIO WEBSITE
-
-After completing the README, provide a separate concept for a premium developer portfolio website.
-
-The website may include:
-
-* A cinematic animated hero.
-* Scroll-triggered project reveals.
-* Smooth section transitions.
-* Interactive project cards.
-* A subtle animated background.
-* A terminal-inspired introduction.
-* Responsive design.
-* Accessible reduced-motion support.
-* Optimized loading performance.
-
-Use React, TypeScript, Tailwind CSS, and Framer Motion if appropriate.
-
-Do not mix website-only functionality into the GitHub README.
-
-## FINAL DELIVERABLE
-
-Deliver:
-
-1. The complete redesigned README.md.
-2. Any additional SVG assets, with their complete source code.
-3. Instructions for placing the files in my GitHub profile repository.
-4. A list of the external animation and statistics services used.
-5. A separate optional plan for a portfolio website with genuine scroll-triggered animation.
-
-The final result should be distinctive, professional, modern, lightweight, technically accurate, and visually impressive.
-
-Prioritize excellent design over excessive effects.
+</div>
