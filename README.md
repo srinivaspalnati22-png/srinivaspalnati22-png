@@ -1,177 +1,200 @@
 <div align="center">
 
-<!-- ================= HERO =================== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001A,40:24005C,75:0066FF,100:00E5FF&height=280&section=header&text=PALNATI%20SRINIVAS&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=17&descColor=E8F7FF"/>
+# PALNATI SRINIVAS
 
-# PALNATI PUSHPA NAGA VENKATA SRINIVAS
- 
-### Computer Science Engineer • AI/ML • Full-Stack Developer
-  
-**Building AI-powered software for real-world problems.**
- 
-<br/>
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/srinivaspalnati22-png/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srinivaspalnati1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
+### Software Developer | AI/ML Engineer | Full-Stack Developer
+
+**I build intelligent applications that solve real-world problems.**
+
+Turning ideas into working software through code, AI, and continuous learning.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/srinivaspalnati22-png/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/srinivaspalnati1">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
+<a href="mailto:srinivaspalnati22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
---- 
+---
 
-## 🚀 About Me.....
+## `$ whoami`
 
-I'm a **Computer Science Engineering student** passionate about building technology that solves real-world problems.
+I'm a Computer Science Engineering student passionate about software engineering, artificial intelligence, and building practical technology.
 
-My interests include:
+I enjoy taking an idea from concept to implementation — designing interfaces, developing backend services, integrating AI models, and turning separate components into functional applications.
 
-- 🤖 Artificial Intelligence & Machine Learning  
-- 💻 Full-Stack Development
-- 🧩 Data Structures & Algorithms
-- 🚑 Emergency & Safety Technology
-- 🛡️ Digital Trust & Security
-- 🌍 Civic Technology
+* 💻 Building full-stack applications and web platforms.
+* 🤖 Exploring AI, machine learning, and intelligent automation.
+* 🧠 Strengthening data structures, algorithms, and problem-solving.
+* 🛠️ Developing projects that address real-world challenges.
+* 🚀 Learning by building, experimenting, and shipping software.
+* 🤝 Interested in collaborating on innovative projects and hackathons.
 
---- 
-  
-## 🌟 Featured Project
+**Current focus:** Software Engineering • AI/ML • Full-Stack Development
+
+---
+
+## `$ cat featured-projects.md`
 
 ### 🚑 RESQONE AI
 
-**Emergency Intelligence Platform built for the Golden Hour**
+**Emergency Intelligence & Coordination Platform**
 
-RESQONE AI combines AI, location intelligence, and emergency coordination into one platform.
+An AI-powered emergency response platform focused on connecting people with emergency assistance and improving coordination.
 
-### Key Features
+* Accident detection and emergency assistance.
+* Hospital coordination and ambulance tracking.
+* Smart blood donor matching.
+* Snakebite assistance and emergency volunteer support.
 
-- 🚨 Accident Detection 
-- 🏥 Hospital Coordination 
-- 🗺️ Live Ambulance Tracking 
-- 🩸 Smart Blood Donor Matching
-- 🐍 Snakebite Assistance
-- 👥 Emergency Volunteer Network
-- | Project | Description | 
-|----------|-------------| 
-| 🧬 Pulsevein | Multimodal Deepfake Detection |
-| 🛡️ TrustShield AI | Scam & Phishing Detection | 
-| 🏙️ SmartCivic AI | Civic Issue Reporting |
-| 🧑‍💼 CareerSafe | Job Scam Detection |
-| 📰 TruthLens AI | Fake News Detection |
-| 📊 NexusAI | Retail Forecasting |
+`React` `Three.js` `FastAPI` `Supabase` `Python`
 
- 
-### Tech Stack
+<a href="https://resqone-ai-app.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/srinivaspalnati22-png/RESQONE-AI">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-`React` • `Three.js` • `FastAPI` • `Supabase` • `Python`
+### 🛡️ CareerSafe
 
-<div align="center"> 
+**AI-Assisted Job Scam Detection**
 
-[![Live Demo](https://img.shields.io/badge/🚑_Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://resqone-ai-app.vercel.app)
+A platform designed to help users identify potentially fraudulent job offers, suspicious recruitment messages, and career-related scams.
 
-[![Source Code](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivaspalnati22-png/RESQONE-AI)
+`Python` `Flask` `HTML` `CSS` `JavaScript`
+
+### 🧬 Pulsevein
+
+**Multimodal Deepfake Detection**
+
+An AI project focused on identifying manipulated media using multimodal deepfake detection techniques.
+
+`Python` `Deep Learning` `Computer Vision`
+
+### 🔐 TrustShield AI
+
+**Scam & Phishing Detection**
+
+A security-focused project designed to help identify suspicious messages, phishing attempts, and potential online scams.
+
+`Python` `Machine Learning` `AI`
+
+### 🏙️ SmartCivic AI
+
+**Intelligent Civic Issue Reporting**
+
+A civic technology concept focused on making it easier to report community issues and support smarter issue management.
+
+### 📰 TruthLens AI
+
+**Fake News Detection**
+
+An AI-based project exploring techniques for identifying potentially misleading or unreliable news content.
+
+### 📊 NexusAI
+
+**Retail Forecasting**
+
+A data-driven project focused on retail analytics and forecasting to support better business decisions.
+
+> Explore my repositories for implementation details, technologies, and project updates.
+
+---
+
+## `$ ls tech-stack/`
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,firebase,supabase,mysql&theme=dark" />
+</p>
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>
+
+### Developer Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+</p>
+
+---
+
+## `$ git stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
 </div>
 
 ---
 
-## 💡 Other Projects
+## `$ achievements`
 
-| Project | Description | 
-|----------|-------------|
-| 🧬 Pulsevein | Multimodal Deepfake Detection |
-| 🛡️ TrustShield AI | Scam & Phishing Detection | 
-| 🏙️ SmartCivic AI | Civic Issue Reporting |
-| 🧑‍💼 CareerSafe | Job Scam Detection |
-| 📰 TruthLens AI | Fake News Detection |
-| 📊 NexusAI | Retail Forecasting |
+* 🥇 First Prize in a 5-hour hackathon.
+* 🚀 Developed multiple AI and software project concepts.
+* 🏆 Participated in 5+ hackathons.
+* 📜 Earned certifications in relevant technical subjects.
 
 ---
 
-## 🛠️ Technology Stack
+## `$ connect --with-me`
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,flutter&theme=dark"/>
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,firebase,supabase,mysql&theme=dark"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 First Prize – 5 Hour Hackathon
-- 🏆 Participated in 5+ Hackathons
-- 🚀 Built 7+ AI Platforms
-- 📜 Earned Multiple Certifications
--  good communication skills
--  best understanding
-  
----
-
-## 📊 GitHub Stats
+I'm open to opportunities to learn, collaborate, contribute to projects, and build useful software with other developers.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&theme=radical&hide_border=true"/>
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaspalnati22-png&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&theme=radical&hide_border=true"/>
-
-</div> 
- 
---- 
- 
-## 🤝 Let's Connect...
-
-I'm always open to learning, collaboration, hackathons, and building impactful technology.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/srinivaspalnati22-png/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/srinivaspalnati1)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
+<a href="mailto:srinivaspalnati22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-### BUILD → LEARN → CREATE → SHIP → REPEAT
+**BUILD. LEARN. SOLVE. SHIP. REPEAT.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0066FF,100:24005C&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0969DA,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
