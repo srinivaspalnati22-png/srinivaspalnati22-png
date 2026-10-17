@@ -1,111 +1,329 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:123B63,100:00B8D9&text=Palnati%20Srinivas&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Software%20Engineer&descSize=18&descAlignY=56&descColor=BFEFFF" width="100%" alt="Palnati Srinivas"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,40:0F2A55,100:06B6D4&text=Palnati%20Srinivas&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20Full-Stack%20Engineering&descSize=18&descAlignY=64&descColor=A5F3FC&animation=twinkling" width="100%" alt="Palnati Srinivas"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+that+solve+real+problems;AI+%2F+ML+%C2%B7+Full-Stack+%C2%B7+Product+Thinking;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=%F0%9F%A4%96+Building+intelligent+systems+with+real-world+impact;%E2%9A%A1+Turning+ideas+into+working+products;%F0%9F%9A%80+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing tagline"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Hackathon-First_Prize_🥇-F59E0B?style=for-the-badge" alt="First prize"/>
+<img src="https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=for-the-badge" alt="Open to opportunities"/>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivaspalnati22-png)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/srinivaspalnati22-png/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/srinivaspalnati1)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
+<a href="https://github.com/srinivaspalnati22-png"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/srinivaspalnati22-png/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/srinivaspalnati1"><img src="https://img.shields.io/badge/HackerRank-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/></a>
+<a href="mailto:srinivaspalnati22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
 
-I'm **Palnati Pushpa Naga Venkata Srinivas**, a computer science engineer working at the intersection of **AI, machine learning, and software development**. I turn ideas into practical applications: understand the problem, build a solution, then refine it through experimentation.
-
-| | |
-|---|---|
-| 🎯 **Focus** | AI / ML and full-stack software engineering |
-| 🛠️ **Builds** | Intelligent, practical, real-world applications |
-| 🔁 **Method** | Learn → Build → Improve |
-| 🌱 **Mindset** | Curious by default, learning through real projects |
-
----
-
-## 🚀 Featured Project: RESQONE AI
-
-> **Emergency assistance. Connected technology. Real-world purpose.**
-
-RESQONE AI brings critical emergency-support workflows together in a single experience.
-
-| Core Workflows | Tech Stack |
-|---|---|
-| 🚑 Emergency assistance<br>🏥 Hospital coordination<br>📍 Ambulance tracking<br>🩸 Blood-donor matching<br>🐍 Snakebite-support workflow<br>🤝 Volunteer network | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-00B8D9?style=for-the-badge&logo=vercel&logoColor=white)](https://resqone-ai-app.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinivaspalnati22-png/RESQONE-AI)
-
----
-
-## 🧪 Project Lab
-
-| Project | What it does | Domain |
-|---|---|---|
-| 🧬 **Pulsevein** | Multimodal deepfake detection: identifying manipulated media and analysing digital authenticity | AI / ML · Media Analysis |
-| 🛡️ **TrustShield AI** | Scam and phishing detection for identifying suspicious content and online threats | AI · Digital Safety |
-| 🎯 **CareerSafe** | Job-scam detection that helps users assess suspicious job offers and career messages | Python · Flask · HTML · CSS · JS |
-| 🏙️ **SmartCivic AI** | Accessible civic issue reporting with AI-assisted workflows | AI · Civic Tech |
-| 🔎 **TruthLens AI** | Fake-news detection and evaluation of potentially misleading information | AI / ML · Text Analysis |
-| 📊 **NexusAI** | Predictive analytics supporting retail planning and forecasting | Analytics · Forecasting |
-
----
-
-## 🧰 Tech Stack
+## 👨‍💻 &nbsp;About Me
 
 <table>
-<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Languages"/></td></tr>
-<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" alt="Frontend"/></td></tr>
-<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" alt="Backend"/></td></tr>
-<tr><td><b>AI / Data</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,mysql,firebase,supabase&theme=dark" alt="AI and Data"/></td></tr>
-<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/></td></tr>
+<tr>
+<td width="60%" valign="top">
+
+Hey 👋 I'm **Palnati Pushpa Naga Venkata Srinivas**, a computer science engineer exploring the intersection of **AI, machine learning, and software development**.
+
+I love turning ideas into useful applications: **understand the problem → build a solution → improve it through experimentation.**
+
+**What drives me**
+
+- 🧠 Building intelligent, practical applications
+- ⚙️ Exploring AI/ML and full-stack engineering
+- 🔨 Learning new tools by creating real projects
+- 🌍 Designing technology around real-world needs
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+identity: Computer Science Engineer
+focus:    AI / ML + Software
+builds:   Intelligent applications
+explores: Full-stack systems
+method:   Learn → Build → Improve
+mindset:  Curious by default
+```
+
+</td>
+</tr>
 </table>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
 
-## 📈 GitHub Stats
+## 🚨 &nbsp;Featured Project
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=22D3EE&icon_color=8B9DFF&text_color=E6EDF3" alt="GitHub stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true&langs_count=8&bg_color=0B1020&title_color=22D3EE&text_color=E6EDF3" alt="Top languages"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7F1D1D,50:DC2626,100:F97316&text=RESQONE%20AI&fontSize=40&fontColor=FFFFFF&fontAlignY=45&desc=Emergency%20assistance%20%C2%B7%20Connected%20technology%20%C2%B7%20Real-world%20purpose&descSize=13&descAlignY=68" width="100%" alt="RESQONE AI"/>
 
 </div>
 
----
+RESQONE AI brings life-critical support workflows together into **one connected experience.**
 
-## 🏆 Highlights
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🥇 **First Prize** | 🚀 **5+ Hackathons** | 🧠 **Project Builder** | 📚 **Lifelong Learner** |
-|:---:|:---:|:---:|:---:|
-| 5-hour hackathon | Participated | Multiple AI and software projects | Multiple technical certifications |
+### ✨ Core Workflows
 
----
+🚑 **Emergency assistance**
+🏥 **Hospital coordination**
+📍 **Ambulance tracking**
+🩸 **Blood-donor matching**
+🐍 **Snakebite-support workflow**
+🤝 **Volunteer network**
 
-## 🧭 Engineering Principles
+</td>
+<td width="50%" valign="top">
 
-- **Purpose first:** start with the problem, not just the technology.
-- **Learn by building:** turn concepts into prototypes and working projects.
-- **Iterate deliberately:** test, review, refine, improve.
-- **Build responsibly:** consider usability, reliability, and real-world impact.
+### 🛠️ Built With
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
+<br/><br/>
+
+<a href="https://resqone-ai-app.vercel.app/"><img src="https://img.shields.io/badge/▶_OPEN_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+<a href="https://github.com/srinivaspalnati22-png/RESQONE-AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
+
+## 🧪 &nbsp;Project Lab
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Pulsevein
+**Multimodal deepfake detection**
+
+Identifying manipulated media and analysing the authenticity of digital content.
+
+`AI / ML` `Media Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ TrustShield AI
+**Scam & phishing detection**
+
+Spotting suspicious content and potential online threats to keep users safe.
+
+`AI` `Digital Safety`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 CareerSafe
+**Career safety intelligence**
+
+A job-scam detector that helps users assess suspicious offers and career messages.
+
+`Python` `Flask` `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ SmartCivic AI
+**Intelligent civic reporting**
+
+Accessible issue reporting with AI-assisted civic workflows.
+
+`AI` `Civic Tech`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 TruthLens AI
+**Information integrity**
+
+Fake-news detection and evaluation of potentially misleading information.
+
+`AI / ML` `Text Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 NexusAI
+**Retail forecasting**
+
+Predictive analytics that supports smarter retail planning.
+
+`Analytics` `Forecasting`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
+
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
-### 🤝 Let's Connect
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Languages"/>
 
-Open to conversations about **AI, software engineering, and building useful products.**
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" alt="Frontend"/>
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srinivaspalnati22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413)
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" alt="Backend"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B1020,50:123B63,100:00B8D9&section=footer" width="100%" alt="Footer"/>
+**AI · Data · Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,mysql,firebase,supabase&theme=dark" alt="AI and Data"/>
+
+**Developer Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srinivaspalnati22-png&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=E6EDF3" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaspalnati22-png&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=srinivaspalnati22-png&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivaspalnati22-png&bg_color=0D1117&color=22D3EE&line=6366F1&point=FFFFFF&area=true&area_color=06B6D4&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
+
+## 🏆 &nbsp;Milestones
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+
+### 🥇
+**First Prize**
+5-hour hackathon
+
+</td>
+<td align="center" width="25%" valign="top">
+
+### 🚀
+**5+ Hackathons**
+Participated in
+
+</td>
+<td align="center" width="25%" valign="top">
+
+### 🧠
+**Project Builder**
+Multiple AI and software projects
+
+</td>
+<td align="center" width="25%" valign="top">
+
+### 📚
+**Lifelong Learner**
+Multiple technical certifications
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:020617" width="100%" alt="divider"/>
+</div>
+
+## 🧭 &nbsp;Engineering Principles
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🎯
+**Purpose First**
+Start with the problem, not just the technology.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🔨
+**Learn by Building**
+Turn concepts into prototypes and working projects.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🔁
+**Iterate Deliberately**
+Test, review, refine, and improve.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🛡️
+**Build Responsibly**
+Consider usability, reliability, and real-world impact.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Have a problem worth solving?
+
+**Let's connect around AI, software engineering, creative problem-solving, and useful products.**
+
+<br/>
+
+<a href="mailto:srinivaspalnati22@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/palnati-pushpa-naga-venkata-srinivas-661744413"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/srinivaspalnati22-png/"><img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/srinivaspalnati1"><img src="https://img.shields.io/badge/HackerRank-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/></a>
+
+<br/><br/>
+
+<sub>Designed around curiosity · Built through engineering · Driven by impact</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,40:0F2A55,100:06B6D4&section=footer" width="100%" alt="Footer"/>
 
 </div>
