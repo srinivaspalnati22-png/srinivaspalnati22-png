@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=srinivaspalnati22-png&label=Profile%20Views&color=0E7490&style=flat-square" alt="Profile views"/>
+<a href="https://hits.sh/github.com/srinivaspalnati22-png/"><img src="https://hits.sh/github.com/srinivaspalnati22-png.svg?style=flat-square&label=Profile%20Views&color=0E7490&labelColor=0B1020" alt="Profile views"/></a>
 <img src="https://img.shields.io/badge/Hackathon-First%20Prize-F59E0B?style=flat-square&logo=awesomelists&logoColor=white" alt="First prize"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=flat-square" alt="Open to opportunities"/>
 
