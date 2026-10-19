@@ -264,7 +264,7 @@ Consider usability, reliability, and real-world impact.
 <td align="center" width="25%" valign="top">
 
 ### 🥇
-**First Prize**<br/>5-hour hackathon
+**First Prize**<br/>5-hour hackathon..
 
 </td>
 <td align="center" width="25%" valign="top">
