@@ -22,7 +22,7 @@
 
 <br/>
 
-## `01` &nbsp;About..
+## `01` &nbsp;About
 
 <table>
 <tr>
